@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T01:48:47.085Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T01:49:56.585Z",
   "lastPull": {
-    "id": 545,
-    "name": "scolipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "id": 381,
+    "name": "latios",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
     "types": [
-      "bug",
-      "poison"
+      "dragon",
+      "psychic"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:48:47.085Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T01:49:56.585Z"
   },
   "pulls": [
+    {
+      "id": 381,
+      "name": "latios",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:49:56.585Z"
+    },
     {
       "id": 545,
       "name": "scolipede",
@@ -67,6 +79,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:38.712Z",
       "lastPulledAt": "2026-09-16T01:47:38.712Z"
+    },
+    "381": {
+      "id": 381,
+      "name": "latios",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:49:56.585Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:49:56.585Z",
+      "lastPulledAt": "2026-09-16T01:49:56.585Z"
     },
     "545": {
       "id": 545,
