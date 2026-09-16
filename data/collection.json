@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T17:15:10.250Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T20:14:08.059Z",
   "lastPull": {
-    "id": 384,
-    "name": "rayquaza",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "id": 796,
+    "name": "xurkitree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
     "types": [
-      "dragon",
-      "flying"
+      "electric"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T17:15:10.250Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T20:14:08.059Z"
   },
   "pulls": [
+    {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T20:14:08.059Z"
+    },
     {
       "id": 384,
       "name": "rayquaza",
@@ -193,6 +203,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:47.085Z",
       "lastPulledAt": "2026-09-16T01:48:47.085Z"
+    },
+    "796": {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T20:14:08.059Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T20:14:08.059Z",
+      "lastPulledAt": "2026-09-16T20:14:08.059Z"
     },
     "927": {
       "id": 927,
