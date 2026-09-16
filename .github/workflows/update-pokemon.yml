@@ -12,7 +12,7 @@ on:
 permissions:
   contents: write         #JOSN과 README를 저장소에 커밋한다.
   pages: write            #Pages에 사이트를 배포
-  id-token : write        #Pages배포 작업을 인증한다.
+  id-token: write        #Pages배포 작업을 인증한다.
 
 concurrency:
   group: pokemon-gacha
@@ -61,6 +61,6 @@ jobs:
         with:
           path: "_site"
       
-      - name: Github Pages 배포에
+      - name: Github Pages 배포
         id: deployment
         uses: actions/deploy-pages@v4
