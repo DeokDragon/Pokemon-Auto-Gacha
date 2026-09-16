@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T20:14:08.059Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T23:01:44.803Z",
   "lastPull": {
-    "id": 796,
-    "name": "xurkitree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "id": 863,
+    "name": "perrserker",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
     "types": [
-      "electric"
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T20:14:08.059Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-09-16T23:01:44.803Z"
   },
   "pulls": [
+    {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-16T23:01:44.803Z"
+    },
     {
       "id": 796,
       "name": "xurkitree",
@@ -218,6 +229,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:14:08.059Z",
       "lastPulledAt": "2026-09-16T20:14:08.059Z"
+    },
+    "863": {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-16T23:01:44.803Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T23:01:44.803Z",
+      "lastPulledAt": "2026-09-16T23:01:44.803Z"
     },
     "927": {
       "id": 927,
