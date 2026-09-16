@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:47:38.712Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:48:47.085Z",
   "lastPull": {
-    "id": 199,
-    "name": "slowking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "id": 545,
+    "name": "scolipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
     "types": [
-      "water",
-      "psychic"
+      "bug",
+      "poison"
     ],
-    "totalStats": 490,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-16T01:47:38.712Z"
+    "pulledAt": "2026-09-16T01:48:47.085Z"
   },
   "pulls": [
+    {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:48:47.085Z"
+    },
     {
       "id": 199,
       "name": "slowking",
@@ -55,6 +67,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:38.712Z",
       "lastPulledAt": "2026-09-16T01:47:38.712Z"
+    },
+    "545": {
+      "id": 545,
+      "name": "scolipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:48:47.085Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:48:47.085Z",
+      "lastPulledAt": "2026-09-16T01:48:47.085Z"
     },
     "927": {
       "id": 927,
