@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T23:01:44.803Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T01:21:57.357Z",
   "lastPull": {
-    "id": 863,
-    "name": "perrserker",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "id": 29,
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": [
-      "steel"
+      "poison"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-09-16T23:01:44.803Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-09-17T01:21:57.357Z"
   },
   "pulls": [
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T01:21:57.357Z"
+    },
     {
       "id": 863,
       "name": "perrserker",
@@ -120,6 +131,21 @@
     }
   ],
   "pokemon": {
+    "29": {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T01:21:57.357Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T01:21:57.357Z",
+      "lastPulledAt": "2026-09-17T01:21:57.357Z"
+    },
     "156": {
       "id": 156,
       "name": "quilava",
