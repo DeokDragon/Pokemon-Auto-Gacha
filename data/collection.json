@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-17T16:56:31.517Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-17T20:09:22.274Z",
   "lastPull": {
-    "id": 168,
-    "name": "ariados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "id": 753,
+    "name": "fomantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
     "types": [
-      "bug",
-      "poison"
+      "grass"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-09-17T16:56:31.517Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-09-17T20:09:22.274Z"
   },
   "pulls": [
+    {
+      "id": 753,
+      "name": "fomantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-17T20:09:22.274Z"
+    },
     {
       "id": 168,
       "name": "ariados",
@@ -118,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-16T06:51:47.217Z"
-    },
-    {
-      "id": 381,
-      "name": "latios",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:49:56.585Z"
     }
   ],
   "pokemon": {
@@ -274,6 +272,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:31:02.765Z",
       "lastPulledAt": "2026-09-17T06:31:02.765Z"
+    },
+    "753": {
+      "id": 753,
+      "name": "fomantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-17T20:09:22.274Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T20:09:22.274Z",
+      "lastPulledAt": "2026-09-17T20:09:22.274Z"
     },
     "796": {
       "id": 796,
