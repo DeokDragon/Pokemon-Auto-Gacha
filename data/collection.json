@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T12:04:19.162Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T16:56:31.517Z",
   "lastPull": {
-    "id": 799,
-    "name": "guzzlord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "dark",
-      "dragon"
+      "bug",
+      "poison"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T12:04:19.162Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-09-17T16:56:31.517Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-17T16:56:31.517Z"
+    },
     {
       "id": 799,
       "name": "guzzlord",
@@ -118,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:49:56.585Z"
-    },
-    {
-      "id": 545,
-      "name": "scolipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:48:47.085Z"
     }
   ],
   "pokemon": {
@@ -162,6 +162,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:29:41.371Z",
       "lastPulledAt": "2026-09-16T12:29:41.371Z"
+    },
+    "168": {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-17T16:56:31.517Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T16:56:31.517Z",
+      "lastPulledAt": "2026-09-17T16:56:31.517Z"
     },
     "199": {
       "id": 199,
