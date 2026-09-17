@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-17T20:09:22.274Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-17T22:51:22.093Z",
   "lastPull": {
-    "id": 753,
-    "name": "fomantis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "grass"
+      "bug"
     ],
-    "totalStats": 250,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-09-17T20:09:22.274Z"
+    "pulledAt": "2026-09-17T22:51:22.093Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-17T22:51:22.093Z"
+    },
     {
       "id": 753,
       "name": "fomantis",
@@ -116,21 +127,24 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-16T12:29:41.371Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T06:51:47.217Z"
     }
   ],
   "pokemon": {
+    "11": {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-17T22:51:22.093Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:51:22.093Z",
+      "lastPulledAt": "2026-09-17T22:51:22.093Z"
+    },
     "29": {
       "id": 29,
       "name": "nidoran-f",
