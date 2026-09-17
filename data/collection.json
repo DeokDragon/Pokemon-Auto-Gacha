@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T06:31:02.765Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T12:04:19.162Z",
   "lastPull": {
-    "id": 632,
-    "name": "durant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "id": 799,
+    "name": "guzzlord",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
     "types": [
-      "bug",
-      "steel"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-09-17T06:31:02.765Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T12:04:19.162Z"
   },
   "pulls": [
+    {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T12:04:19.162Z"
+    },
     {
       "id": 632,
       "name": "durant",
@@ -118,18 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-16T01:48:47.085Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:47:38.712Z"
     }
   ],
   "pokemon": {
@@ -273,6 +273,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:14:08.059Z",
       "lastPulledAt": "2026-09-16T20:14:08.059Z"
+    },
+    "799": {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T12:04:19.162Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T12:04:19.162Z",
+      "lastPulledAt": "2026-09-17T12:04:19.162Z"
     },
     "863": {
       "id": 863,
