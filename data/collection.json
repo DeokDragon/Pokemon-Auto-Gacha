@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-18T05:54:14.881Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-18T10:51:11.815Z",
   "lastPull": {
-    "id": 121,
-    "name": "starmie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "id": 319,
+    "name": "sharpedo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "types": [
       "water",
-      "psychic"
+      "dark"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T05:54:14.881Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-18T10:51:11.815Z"
   },
   "pulls": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-18T10:51:11.815Z"
+    },
     {
       "id": 121,
       "name": "starmie",
@@ -118,17 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-09-16T23:01:44.803Z"
-    },
-    {
-      "id": 796,
-      "name": "xurkitree",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T20:14:08.059Z"
     }
   ],
   "pokemon": {
@@ -240,6 +241,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:07:32.780Z",
       "lastPulledAt": "2026-09-18T01:07:32.780Z"
+    },
+    "319": {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-18T10:51:11.815Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T10:51:11.815Z",
+      "lastPulledAt": "2026-09-18T10:51:11.815Z"
     },
     "381": {
       "id": 381,
