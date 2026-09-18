@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-18T20:59:17.443Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-18T23:12:51.437Z",
   "lastPull": {
-    "id": 374,
-    "name": "beldum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "id": 812,
+    "name": "rillaboom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
     "types": [
-      "steel",
-      "psychic"
+      "grass"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-18T20:59:17.443Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T23:12:51.437Z"
   },
   "pulls": [
+    {
+      "id": 812,
+      "name": "rillaboom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:12:51.437Z"
+    },
     {
       "id": 374,
       "name": "beldum",
@@ -118,18 +128,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-17T16:56:31.517Z"
-    },
-    {
-      "id": 799,
-      "name": "guzzlord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T12:04:19.162Z"
     }
   ],
   "pokemon": {
@@ -429,6 +427,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T12:04:19.162Z",
       "lastPulledAt": "2026-09-17T12:04:19.162Z"
+    },
+    "812": {
+      "id": 812,
+      "name": "rillaboom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:12:51.437Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:12:51.437Z",
+      "lastPulledAt": "2026-09-18T23:12:51.437Z"
     },
     "863": {
       "id": 863,
