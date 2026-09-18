@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T18:10:24.374Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-18T20:59:17.443Z",
   "lastPull": {
-    "id": 273,
-    "name": "seedot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "grass"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 220,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-18T18:10:24.374Z"
+    "pulledAt": "2026-09-18T20:59:17.443Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-18T20:59:17.443Z"
+    },
     {
       "id": 273,
       "name": "seedot",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-17T12:04:19.162Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-09-17T06:31:02.765Z"
     }
   ],
   "pokemon": {
@@ -286,6 +287,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:51:11.815Z",
       "lastPulledAt": "2026-09-18T10:51:11.815Z"
+    },
+    "374": {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-18T20:59:17.443Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T20:59:17.443Z",
+      "lastPulledAt": "2026-09-18T20:59:17.443Z"
     },
     "381": {
       "id": 381,
