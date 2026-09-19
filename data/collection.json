@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-19T01:16:32.588Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-19T06:01:15.881Z",
   "lastPull": {
-    "id": 887,
-    "name": "dragapult",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "id": 227,
+    "name": "skarmory",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
     "types": [
-      "dragon",
-      "ghost"
+      "steel",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-19T01:16:32.588Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-09-19T06:01:15.881Z"
   },
   "pulls": [
+    {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:01:15.881Z"
+    },
     {
       "id": 887,
       "name": "dragapult",
@@ -118,17 +130,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-17T22:51:22.093Z"
-    },
-    {
-      "id": 753,
-      "name": "fomantis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-17T20:09:22.274Z"
     }
   ],
   "pokemon": {
@@ -224,6 +225,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:38.712Z",
       "lastPulledAt": "2026-09-16T01:47:38.712Z"
+    },
+    "227": {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:01:15.881Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T06:01:15.881Z",
+      "lastPulledAt": "2026-09-19T06:01:15.881Z"
     },
     "273": {
       "id": 273,
