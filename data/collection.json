@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T19:24:42.873Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-19T21:38:02.921Z",
   "lastPull": {
-    "id": 140,
-    "name": "kabuto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "id": 982,
+    "name": "dudunsparce-two-segment",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
     "types": [
-      "rock",
-      "water"
+      "normal"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-09-19T19:24:42.873Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T21:38:02.921Z"
   },
   "pulls": [
+    {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T21:38:02.921Z"
+    },
     {
       "id": 140,
       "name": "kabuto",
@@ -120,17 +130,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-09-18T18:10:24.374Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-09-18T14:50:51.960Z"
     }
   ],
   "pokemon": {
@@ -571,6 +570,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:48.987Z",
       "lastPulledAt": "2026-09-16T01:42:48.987Z"
+    },
+    "982": {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T21:38:02.921Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T21:38:02.921Z",
+      "lastPulledAt": "2026-09-19T21:38:02.921Z"
     }
   },
   "typeTotals": {
