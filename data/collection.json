@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T17:19:11.901Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T19:24:42.873Z",
   "lastPull": {
-    "id": 15,
-    "name": "beedrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "id": 140,
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "types": [
-      "bug",
-      "poison"
+      "rock",
+      "water"
     ],
-    "totalStats": 395,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-09-19T17:19:11.901Z"
+    "pulledAt": "2026-09-19T19:24:42.873Z"
   },
   "pulls": [
+    {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:24:42.873Z"
+    },
     {
       "id": 15,
       "name": "beedrill",
@@ -119,18 +131,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-18T14:50:51.960Z"
-    },
-    {
-      "id": 319,
-      "name": "sharpedo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-18T10:51:11.815Z"
     }
   ],
   "pokemon": {
@@ -211,6 +211,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:54:14.881Z",
       "lastPulledAt": "2026-09-18T05:54:14.881Z"
+    },
+    "140": {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:24:42.873Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T19:24:42.873Z",
+      "lastPulledAt": "2026-09-19T19:24:42.873Z"
     },
     "156": {
       "id": 156,
