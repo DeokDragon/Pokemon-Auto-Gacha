@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-19T06:01:15.881Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-19T10:52:58.588Z",
   "lastPull": {
-    "id": 227,
-    "name": "skarmory",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "id": 83,
+    "name": "farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "types": [
-      "steel",
+      "normal",
       "flying"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-09-19T06:01:15.881Z"
+    "totalStats": 377,
+    "grade": "N",
+    "pulledAt": "2026-09-19T10:52:58.588Z"
   },
   "pulls": [
+    {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-09-19T10:52:58.588Z"
+    },
     {
       "id": 227,
       "name": "skarmory",
@@ -119,17 +131,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-18T01:07:32.780Z"
-    },
-    {
-      "id": 11,
-      "name": "metapod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-09-17T22:51:22.093Z"
     }
   ],
   "pokemon": {
@@ -162,6 +163,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-09-17T01:21:57.357Z"
+    },
+    "83": {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-09-19T10:52:58.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T10:52:58.588Z",
+      "lastPulledAt": "2026-09-19T10:52:58.588Z"
     },
     "121": {
       "id": 121,
