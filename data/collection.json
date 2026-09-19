@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-18T23:12:51.437Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T01:16:32.588Z",
   "lastPull": {
-    "id": 812,
-    "name": "rillaboom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "id": 887,
+    "name": "dragapult",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
     "types": [
-      "grass"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T23:12:51.437Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-19T01:16:32.588Z"
   },
   "pulls": [
+    {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-19T01:16:32.588Z"
+    },
     {
       "id": 812,
       "name": "rillaboom",
@@ -116,18 +129,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-09-17T20:09:22.274Z"
-    },
-    {
-      "id": 168,
-      "name": "ariados",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-17T16:56:31.517Z"
     }
   ],
   "pokemon": {
@@ -457,6 +458,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:01:44.803Z",
       "lastPulledAt": "2026-09-16T23:01:44.803Z"
+    },
+    "887": {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-19T01:16:32.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:16:32.588Z",
+      "lastPulledAt": "2026-09-19T01:16:32.588Z"
     },
     "927": {
       "id": 927,
