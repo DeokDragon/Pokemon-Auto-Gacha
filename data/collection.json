@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T18:54:20.547Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-20T21:17:52.400Z",
   "lastPull": {
-    "id": 990,
-    "name": "iron-treads",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "id": 981,
+    "name": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
     "types": [
-      "ground",
-      "steel"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 570,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-09-20T18:54:20.547Z"
+    "pulledAt": "2026-09-20T21:17:52.400Z"
   },
   "pulls": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:17:52.400Z"
+    },
     {
       "id": 990,
       "name": "iron-treads",
@@ -118,18 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-19T17:19:11.901Z"
-    },
-    {
-      "id": 478,
-      "name": "froslass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
-      "types": [
-        "ice",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-19T14:13:26.693Z"
     }
   ],
   "pokemon": {
@@ -647,6 +647,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:48.987Z",
       "lastPulledAt": "2026-09-16T01:42:48.987Z"
+    },
+    "981": {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:17:52.400Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:17:52.400Z",
+      "lastPulledAt": "2026-09-20T21:17:52.400Z"
     },
     "982": {
       "id": 982,
