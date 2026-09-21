@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-21T01:16:45.502Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-21T06:32:33.307Z",
   "lastPull": {
-    "id": 198,
-    "name": "murkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "id": 5,
+    "name": "charmeleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
     "types": [
-      "dark",
-      "flying"
+      "fire"
     ],
     "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-09-21T01:16:45.502Z"
+    "pulledAt": "2026-09-21T06:32:33.307Z"
   },
   "pulls": [
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-21T06:32:33.307Z"
+    },
     {
       "id": 198,
       "name": "murkrow",
@@ -119,20 +129,24 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-09-19T23:34:14.021Z"
-    },
-    {
-      "id": 982,
-      "name": "dudunsparce-two-segment",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T21:38:02.921Z"
     }
   ],
   "pokemon": {
+    "5": {
+      "id": 5,
+      "name": "charmeleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-21T06:32:33.307Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T06:32:33.307Z",
+      "lastPulledAt": "2026-09-21T06:32:33.307Z"
+    },
     "11": {
       "id": 11,
       "name": "metapod",
