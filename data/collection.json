@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-21T06:32:33.307Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-21T13:20:19.971Z",
   "lastPull": {
-    "id": 5,
-    "name": "charmeleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "id": 246,
+    "name": "larvitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
     "types": [
-      "fire"
+      "rock",
+      "ground"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-21T06:32:33.307Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-21T13:20:19.971Z"
   },
   "pulls": [
+    {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T13:20:19.971Z"
+    },
     {
       "id": 5,
       "name": "charmeleon",
@@ -117,18 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-09-20T01:37:19.107Z"
-    },
-    {
-      "id": 543,
-      "name": "venipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-09-19T23:34:14.021Z"
     }
   ],
   "pokemon": {
@@ -335,6 +336,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:01:15.881Z",
       "lastPulledAt": "2026-09-19T06:01:15.881Z"
+    },
+    "246": {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T13:20:19.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T13:20:19.971Z",
+      "lastPulledAt": "2026-09-21T13:20:19.971Z"
     },
     "273": {
       "id": 273,
