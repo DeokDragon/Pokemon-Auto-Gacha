@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T11:50:10.306Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T15:56:18.035Z",
   "lastPull": {
-    "id": 314,
-    "name": "illumise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "id": 515,
+    "name": "panpour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-09-22T11:50:10.306Z"
+    "totalStats": 316,
+    "grade": "N",
+    "pulledAt": "2026-09-22T15:56:18.035Z"
   },
   "pulls": [
+    {
+      "id": 515,
+      "name": "panpour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-22T15:56:18.035Z"
+    },
     {
       "id": 314,
       "name": "illumise",
@@ -115,18 +126,6 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-09-20T23:19:09.647Z"
-    },
-    {
-      "id": 981,
-      "name": "farigiraf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T21:17:52.400Z"
     }
   ],
   "pokemon": {
@@ -566,6 +565,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T16:18:04.140Z",
       "lastPulledAt": "2026-09-20T16:18:04.140Z"
+    },
+    "515": {
+      "id": 515,
+      "name": "panpour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-22T15:56:18.035Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T15:56:18.035Z",
+      "lastPulledAt": "2026-09-22T15:56:18.035Z"
     },
     "517": {
       "id": 517,
