@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-23T00:52:25.647Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-23T05:39:52.258Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "rock"
+      "bug"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-23T00:52:25.647Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-23T05:39:52.258Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-23T05:39:52.258Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -114,18 +125,6 @@
       "totalStats": 255,
       "grade": "N",
       "pulledAt": "2026-09-21T18:52:11.096Z"
-    },
-    {
-      "id": 246,
-      "name": "larvitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-21T13:20:19.971Z"
     }
   ],
   "pokemon": {
@@ -673,6 +672,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:26:26.130Z",
       "lastPulledAt": "2026-09-22T22:26:26.130Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-23T05:39:52.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T05:39:52.258Z",
+      "lastPulledAt": "2026-09-23T05:39:52.258Z"
     },
     "632": {
       "id": 632,
