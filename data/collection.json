@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T05:39:52.258Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T10:17:36.932Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 338,
+    "name": "solrock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
     "types": [
-      "bug"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-23T05:39:52.258Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-23T10:17:36.932Z"
   },
   "pulls": [
+    {
+      "id": 338,
+      "name": "solrock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T10:17:36.932Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -114,17 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-21T22:30:52.387Z"
-    },
-    {
-      "id": 935,
-      "name": "charcadet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 255,
-      "grade": "N",
-      "pulledAt": "2026-09-21T18:52:11.096Z"
     }
   ],
   "pokemon": {
@@ -439,6 +441,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:51:11.815Z",
       "lastPulledAt": "2026-09-18T10:51:11.815Z"
+    },
+    "338": {
+      "id": 338,
+      "name": "solrock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T10:17:36.932Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T10:17:36.932Z",
+      "lastPulledAt": "2026-09-23T10:17:36.932Z"
     },
     "352": {
       "id": 352,
