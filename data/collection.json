@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-24T00:34:56.287Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-24T05:23:19.487Z",
   "lastPull": {
-    "id": 1024,
-    "name": "terapagos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "normal"
+      "fairy"
     ],
     "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-09-24T00:34:56.287Z"
+    "pulledAt": "2026-09-24T05:23:19.487Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-24T05:23:19.487Z"
+    },
     {
       "id": 1024,
       "name": "terapagos",
@@ -117,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-22T19:40:50.963Z"
-    },
-    {
-      "id": 515,
-      "name": "panpour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-09-22T15:56:18.035Z"
     }
   ],
   "pokemon": {
@@ -349,6 +349,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T19:02:31.187Z",
       "lastPulledAt": "2026-09-23T19:02:31.187Z"
+    },
+    "210": {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-24T05:23:19.487Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T05:23:19.487Z",
+      "lastPulledAt": "2026-09-24T05:23:19.487Z"
     },
     "227": {
       "id": 227,
