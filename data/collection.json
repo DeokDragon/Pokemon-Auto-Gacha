@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T15:25:21.626Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T19:26:11.397Z",
   "lastPull": {
-    "id": 597,
-    "name": "ferroseed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "grass",
-      "steel"
+      "dark",
+      "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-24T15:25:21.626Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T19:26:11.397Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T19:26:11.397Z"
+    },
     {
       "id": 597,
       "name": "ferroseed",
@@ -118,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-23T05:39:52.258Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-23T00:52:25.647Z"
     }
   ],
   "pokemon": {
@@ -1018,6 +1019,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:54:20.547Z",
       "lastPulledAt": "2026-09-20T18:54:20.547Z"
+    },
+    "993": {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T19:26:11.397Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T19:26:11.397Z",
+      "lastPulledAt": "2026-09-24T19:26:11.397Z"
     },
     "1024": {
       "id": 1024,
