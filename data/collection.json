@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-25T11:42:52.822Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-25T15:56:59.680Z",
   "lastPull": {
-    "id": 768,
-    "name": "golisopod",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "id": 781,
+    "name": "dhelmise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
     "types": [
-      "bug",
-      "water"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 530,
+    "totalStats": 517,
     "grade": "SR",
-    "pulledAt": "2026-09-25T11:42:52.822Z"
+    "pulledAt": "2026-09-25T15:56:59.680Z"
   },
   "pulls": [
+    {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T15:56:59.680Z"
+    },
     {
       "id": 768,
       "name": "golisopod",
@@ -119,17 +131,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-24T00:34:56.287Z"
-    },
-    {
-      "id": 807,
-      "name": "zeraora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-23T22:15:31.761Z"
     }
   ],
   "pokemon": {
@@ -881,6 +882,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:40:50.963Z",
       "lastPulledAt": "2026-09-22T19:40:50.963Z"
+    },
+    "781": {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T15:56:59.680Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T15:56:59.680Z",
+      "lastPulledAt": "2026-09-25T15:56:59.680Z"
     },
     "796": {
       "id": 796,
