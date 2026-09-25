@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-25T05:59:53.926Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-25T11:42:52.822Z",
   "lastPull": {
-    "id": 954,
-    "name": "rabsca",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    "id": 768,
+    "name": "golisopod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
     "types": [
       "bug",
-      "psychic"
+      "water"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-25T05:59:53.926Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T11:42:52.822Z"
   },
   "pulls": [
+    {
+      "id": 768,
+      "name": "golisopod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T11:42:52.822Z"
+    },
     {
       "id": 954,
       "name": "rabsca",
@@ -118,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-23T22:15:31.761Z"
-    },
-    {
-      "id": 207,
-      "name": "gligar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-23T19:02:31.187Z"
     }
   ],
   "pokemon": {
@@ -849,6 +849,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T20:09:22.274Z",
       "lastPulledAt": "2026-09-17T20:09:22.274Z"
+    },
+    "768": {
+      "id": 768,
+      "name": "golisopod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T11:42:52.822Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T11:42:52.822Z",
+      "lastPulledAt": "2026-09-25T11:42:52.822Z"
     },
     "779": {
       "id": 779,
