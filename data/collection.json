@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T19:58:04.026Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-25T23:14:26.437Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 265,
+    "name": "wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
     "types": [
-      "ice"
+      "bug"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T19:58:04.026Z"
+    "totalStats": 195,
+    "grade": "N",
+    "pulledAt": "2026-09-25T23:14:26.437Z"
   },
   "pulls": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-25T23:14:26.437Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -119,17 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-24T10:23:24.168Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-24T05:23:19.487Z"
     }
   ],
   "pokemon": {
@@ -413,6 +413,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:20:19.971Z",
       "lastPulledAt": "2026-09-21T13:20:19.971Z"
+    },
+    "265": {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-25T23:14:26.437Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T23:14:26.437Z",
+      "lastPulledAt": "2026-09-25T23:14:26.437Z"
     },
     "273": {
       "id": 273,
