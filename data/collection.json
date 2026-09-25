@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-24T22:40:36.818Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-25T00:55:51.044Z",
   "lastPull": {
-    "id": 893,
-    "name": "zarude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "id": 233,
+    "name": "porygon2",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
     "types": [
-      "dark",
-      "grass"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-24T22:40:36.818Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T00:55:51.044Z"
   },
   "pulls": [
+    {
+      "id": 233,
+      "name": "porygon2",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T00:55:51.044Z"
+    },
     {
       "id": 893,
       "name": "zarude",
@@ -119,18 +129,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-23T15:06:00.665Z"
-    },
-    {
-      "id": 338,
-      "name": "solrock",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-23T10:17:36.932Z"
     }
   ],
   "pokemon": {
@@ -383,6 +381,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:01:15.881Z",
       "lastPulledAt": "2026-09-19T06:01:15.881Z"
+    },
+    "233": {
+      "id": 233,
+      "name": "porygon2",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T00:55:51.044Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T00:55:51.044Z",
+      "lastPulledAt": "2026-09-25T00:55:51.044Z"
     },
     "246": {
       "id": 246,
