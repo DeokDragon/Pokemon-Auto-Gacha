@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-25T00:55:51.044Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-25T05:59:53.926Z",
   "lastPull": {
-    "id": 233,
-    "name": "porygon2",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "id": 954,
+    "name": "rabsca",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
     "types": [
-      "normal"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T00:55:51.044Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-25T05:59:53.926Z"
   },
   "pulls": [
+    {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-25T05:59:53.926Z"
+    },
     {
       "id": 233,
       "name": "porygon2",
@@ -117,18 +130,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-23T19:02:31.187Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T15:06:00.665Z"
     }
   ],
   "pokemon": {
@@ -1002,6 +1003,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T18:52:11.096Z",
       "lastPulledAt": "2026-09-21T18:52:11.096Z"
+    },
+    "954": {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-25T05:59:53.926Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T05:59:53.926Z",
+      "lastPulledAt": "2026-09-25T05:59:53.926Z"
     },
     "981": {
       "id": 981,
