@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T19:12:04.453Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-26T21:59:45.076Z",
   "lastPull": {
-    "id": 868,
-    "name": "milcery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "id": 376,
+    "name": "metagross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
     "types": [
-      "fairy"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-26T19:12:04.453Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-26T21:59:45.076Z"
   },
   "pulls": [
+    {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T21:59:45.076Z"
+    },
     {
       "id": 868,
       "name": "milcery",
@@ -115,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-25T11:42:52.822Z"
-    },
-    {
-      "id": 954,
-      "name": "rabsca",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-25T05:59:53.926Z"
     }
   ],
   "pokemon": {
@@ -579,6 +580,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T20:59:17.443Z",
       "lastPulledAt": "2026-09-18T20:59:17.443Z"
+    },
+    "376": {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T21:59:45.076Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T21:59:45.076Z",
+      "lastPulledAt": "2026-09-26T21:59:45.076Z"
     },
     "381": {
       "id": 381,
