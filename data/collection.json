@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-26T16:03:50.766Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-26T19:12:04.453Z",
   "lastPull": {
-    "id": 258,
-    "name": "mudkip",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "id": 868,
+    "name": "milcery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 310,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-09-26T16:03:50.766Z"
+    "pulledAt": "2026-09-26T19:12:04.453Z"
   },
   "pulls": [
+    {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-26T19:12:04.453Z"
+    },
     {
       "id": 258,
       "name": "mudkip",
@@ -116,17 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-25T05:59:53.926Z"
-    },
-    {
-      "id": 233,
-      "name": "porygon2",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T00:55:51.044Z"
     }
   ],
   "pokemon": {
@@ -1046,6 +1046,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:01:44.803Z",
       "lastPulledAt": "2026-09-16T23:01:44.803Z"
+    },
+    "868": {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-26T19:12:04.453Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T19:12:04.453Z",
+      "lastPulledAt": "2026-09-26T19:12:04.453Z"
     },
     "887": {
       "id": 887,
