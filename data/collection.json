@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-09-27T19:10:40.850Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-09-27T22:20:16.182Z",
   "lastPull": {
-    "id": 870,
-    "name": "falinks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "id": 219,
+    "name": "magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
     "types": [
-      "fighting"
+      "fire",
+      "rock"
     ],
-    "totalStats": 470,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-09-27T19:10:40.850Z"
+    "pulledAt": "2026-09-27T22:20:16.182Z"
   },
   "pulls": [
+    {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-27T22:20:16.182Z"
+    },
     {
       "id": 870,
       "name": "falinks",
@@ -114,17 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-26T11:51:34.230Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T06:41:48.378Z"
     }
   ],
   "pokemon": {
@@ -376,6 +378,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T05:23:19.487Z",
       "lastPulledAt": "2026-09-24T05:23:19.487Z"
+    },
+    "219": {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-27T22:20:16.182Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:20:16.182Z",
+      "lastPulledAt": "2026-09-27T22:20:16.182Z"
     },
     "227": {
       "id": 227,
