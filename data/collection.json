@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T00:27:54.272Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T05:38:25.764Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "normal",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T00:27:54.272Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-09-27T05:38:25.764Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-27T05:38:25.764Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -116,18 +126,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-25T19:58:04.026Z"
-    },
-    {
-      "id": 781,
-      "name": "dhelmise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 517,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T15:56:59.680Z"
     }
   ],
   "pokemon": {
@@ -498,10 +496,10 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-18T14:50:51.960Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T14:50:51.960Z",
-      "lastPulledAt": "2026-09-18T14:50:51.960Z"
+      "lastPulledAt": "2026-09-27T05:38:25.764Z"
     },
     "314": {
       "id": 314,
