@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-27T05:38:25.764Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T10:46:04.968Z",
   "lastPull": {
-    "id": 309,
-    "name": "electrike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
     "types": [
       "electric"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-09-27T05:38:25.764Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T10:46:04.968Z"
   },
   "pulls": [
+    {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T10:46:04.968Z"
+    },
     {
       "id": 309,
       "name": "electrike",
@@ -115,17 +126,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-25T23:14:26.437Z"
-    },
-    {
-      "id": 896,
-      "name": "glastrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T19:58:04.026Z"
     }
   ],
   "pokemon": {
@@ -703,6 +703,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T06:41:48.378Z",
       "lastPulledAt": "2026-09-26T06:41:48.378Z"
+    },
+    "466": {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T10:46:04.968Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:46:04.968Z",
+      "lastPulledAt": "2026-09-27T10:46:04.968Z"
     },
     "478": {
       "id": 478,
