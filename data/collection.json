@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T14:35:20.780Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T20:47:50.018Z",
   "lastPull": {
-    "id": 840,
-    "name": "applin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "id": 967,
+    "name": "cyclizar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
     "types": [
-      "grass",
-      "dragon"
+      "dragon",
+      "normal"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-09-28T14:35:20.780Z"
+    "totalStats": 501,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T20:47:50.018Z"
   },
   "pulls": [
+    {
+      "id": 967,
+      "name": "cyclizar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+      "types": [
+        "dragon",
+        "normal"
+      ],
+      "totalStats": 501,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T20:47:50.018Z"
+    },
     {
       "id": 840,
       "name": "applin",
@@ -118,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-26T21:59:45.076Z"
-    },
-    {
-      "id": 868,
-      "name": "milcery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-26T19:12:04.453Z"
     }
   ],
   "pokemon": {
@@ -1265,6 +1266,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T05:59:53.926Z",
       "lastPulledAt": "2026-09-25T05:59:53.926Z"
+    },
+    "967": {
+      "id": 967,
+      "name": "cyclizar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+      "types": [
+        "dragon",
+        "normal"
+      ],
+      "totalStats": 501,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T20:47:50.018Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T20:47:50.018Z",
+      "lastPulledAt": "2026-09-28T20:47:50.018Z"
     },
     "981": {
       "id": 981,
