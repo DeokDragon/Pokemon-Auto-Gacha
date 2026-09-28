@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-27T22:20:16.182Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T01:03:23.224Z",
   "lastPull": {
-    "id": 219,
-    "name": "magcargo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "id": 885,
+    "name": "dreepy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
     "types": [
-      "fire",
-      "rock"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-09-27T22:20:16.182Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-09-28T01:03:23.224Z"
   },
   "pulls": [
+    {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-28T01:03:23.224Z"
+    },
     {
       "id": 219,
       "name": "magcargo",
@@ -116,17 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-26T16:03:50.766Z"
-    },
-    {
-      "id": 25,
-      "name": "pikachu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-26T11:51:34.230Z"
     }
   ],
   "pokemon": {
@@ -1138,6 +1139,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:10:40.850Z",
       "lastPulledAt": "2026-09-27T19:10:40.850Z"
+    },
+    "885": {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-28T01:03:23.224Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T01:03:23.224Z",
+      "lastPulledAt": "2026-09-28T01:03:23.224Z"
     },
     "887": {
       "id": 887,
