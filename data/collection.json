@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-29T00:38:26.955Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-29T06:14:44.370Z",
   "lastPull": {
-    "id": 550,
-    "name": "basculin-red-striped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "water"
+      "dragon"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-29T00:38:26.955Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-29T06:14:44.370Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:14:44.370Z"
+    },
     {
       "id": 550,
       "name": "basculin-red-striped",
@@ -116,18 +127,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-27T05:38:25.764Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T00:27:54.272Z"
     }
   ],
   "pokemon": {
@@ -969,6 +968,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:06:00.665Z",
       "lastPulledAt": "2026-09-23T15:06:00.665Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:14:44.370Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T06:14:44.370Z",
+      "lastPulledAt": "2026-09-29T06:14:44.370Z"
     },
     "753": {
       "id": 753,
