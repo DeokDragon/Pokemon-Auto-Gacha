@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T06:14:44.370Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T13:05:41.437Z",
   "lastPull": {
-    "id": 704,
-    "name": "goomy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "id": 213,
+    "name": "shuckle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
     "types": [
-      "dragon"
+      "bug",
+      "rock"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-29T06:14:44.370Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T13:05:41.437Z"
   },
   "pulls": [
+    {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T13:05:41.437Z"
+    },
     {
       "id": 704,
       "name": "goomy",
@@ -116,17 +129,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-27T10:46:04.968Z"
-    },
-    {
-      "id": 309,
-      "name": "electrike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-09-27T05:38:25.764Z"
     }
   ],
   "pokemon": {
@@ -378,6 +380,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T05:23:19.487Z",
       "lastPulledAt": "2026-09-24T05:23:19.487Z"
+    },
+    "213": {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T13:05:41.437Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T13:05:41.437Z",
+      "lastPulledAt": "2026-09-29T13:05:41.437Z"
     },
     "219": {
       "id": 219,
