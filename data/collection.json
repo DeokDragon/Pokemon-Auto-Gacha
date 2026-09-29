@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-28T20:47:50.018Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-29T00:38:26.955Z",
   "lastPull": {
-    "id": 967,
-    "name": "cyclizar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+    "id": 550,
+    "name": "basculin-red-striped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
     "types": [
-      "dragon",
-      "normal"
+      "water"
     ],
-    "totalStats": 501,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T20:47:50.018Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-29T00:38:26.955Z"
   },
   "pulls": [
+    {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-29T00:38:26.955Z"
+    },
     {
       "id": 967,
       "name": "cyclizar",
@@ -118,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-27T00:27:54.272Z"
-    },
-    {
-      "id": 376,
-      "name": "metagross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T21:59:45.076Z"
     }
   ],
   "pokemon": {
@@ -846,6 +844,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:47.085Z",
       "lastPulledAt": "2026-09-16T01:48:47.085Z"
+    },
+    "550": {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-29T00:38:26.955Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T00:38:26.955Z",
+      "lastPulledAt": "2026-09-29T00:38:26.955Z"
     },
     "597": {
       "id": 597,
