@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T22:36:58.866Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-30T01:34:39.627Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 908,
+    "name": "meowscarada",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
     "types": [
-      "ghost",
-      "fire"
+      "grass",
+      "dark"
     ],
-    "totalStats": 520,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-09-29T22:36:58.866Z"
+    "pulledAt": "2026-09-30T01:34:39.627Z"
   },
   "pulls": [
+    {
+      "id": 908,
+      "name": "meowscarada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T01:34:39.627Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -119,17 +131,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-27T22:20:16.182Z"
-    },
-    {
-      "id": 870,
-      "name": "falinks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-27T19:10:40.850Z"
     }
   ],
   "pokemon": {
@@ -1282,6 +1283,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:58:04.026Z",
       "lastPulledAt": "2026-09-25T19:58:04.026Z"
+    },
+    "908": {
+      "id": 908,
+      "name": "meowscarada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T01:34:39.627Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T01:34:39.627Z",
+      "lastPulledAt": "2026-09-30T01:34:39.627Z"
     },
     "921": {
       "id": 921,
