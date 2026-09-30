@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T07:26:36.857Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T14:09:16.404Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 853,
+    "name": "grapploct",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
     "types": [
-      "ghost",
-      "fire"
+      "fighting"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T07:26:36.857Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-30T14:09:16.404Z"
   },
   "pulls": [
+    {
+      "id": 853,
+      "name": "grapploct",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T14:09:16.404Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -119,18 +129,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-09-28T14:35:20.780Z"
-    },
-    {
-      "id": 885,
-      "name": "dreepy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-28T01:03:23.224Z"
     }
   ],
   "pokemon": {
@@ -1175,6 +1173,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T14:35:20.780Z",
       "lastPulledAt": "2026-09-28T14:35:20.780Z"
+    },
+    "853": {
+      "id": 853,
+      "name": "grapploct",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T14:09:16.404Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T14:09:16.404Z",
+      "lastPulledAt": "2026-09-30T14:09:16.404Z"
     },
     "863": {
       "id": 863,
