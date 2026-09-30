@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T19:20:50.046Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T23:09:07.416Z",
   "lastPull": {
-    "id": 885,
-    "name": "dreepy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "id": 811,
+    "name": "thwackey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
     "types": [
-      "dragon",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-30T19:20:50.046Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-30T23:09:07.416Z"
   },
   "pulls": [
+    {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-30T23:09:07.416Z"
+    },
     {
       "id": 885,
       "name": "dreepy",
@@ -118,18 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-29T00:38:26.955Z"
-    },
-    {
-      "id": 967,
-      "name": "cyclizar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
-      "types": [
-        "dragon",
-        "normal"
-      ],
-      "totalStats": 501,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T20:47:50.018Z"
     }
   ],
   "pokemon": {
@@ -1143,6 +1141,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T22:15:31.761Z",
       "lastPulledAt": "2026-09-23T22:15:31.761Z"
+    },
+    "811": {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-30T23:09:07.416Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T23:09:07.416Z",
+      "lastPulledAt": "2026-09-30T23:09:07.416Z"
     },
     "812": {
       "id": 812,
