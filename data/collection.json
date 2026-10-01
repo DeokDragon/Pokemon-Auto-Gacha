@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-10-01T08:58:03.462Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-10-01T16:18:08.819Z",
   "lastPull": {
-    "id": 360,
-    "name": "wynaut",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "id": 878,
+    "name": "cufant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
     "types": [
-      "psychic"
+      "steel"
     ],
-    "totalStats": 260,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-01T08:58:03.462Z"
+    "pulledAt": "2026-10-01T16:18:08.819Z"
   },
   "pulls": [
+    {
+      "id": 878,
+      "name": "cufant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T16:18:08.819Z"
+    },
     {
       "id": 360,
       "name": "wynaut",
@@ -117,18 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-09-29T18:37:17.787Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T13:05:41.437Z"
     }
   ],
   "pokemon": {
@@ -1279,6 +1278,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:10:40.850Z",
       "lastPulledAt": "2026-09-27T19:10:40.850Z"
+    },
+    "878": {
+      "id": 878,
+      "name": "cufant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T16:18:08.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T16:18:08.819Z",
+      "lastPulledAt": "2026-10-01T16:18:08.819Z"
     },
     "885": {
       "id": 885,
