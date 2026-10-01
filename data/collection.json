@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-10-01T02:09:40.290Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-10-01T08:58:03.462Z",
   "lastPull": {
-    "id": 400,
-    "name": "bibarel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "id": 360,
+    "name": "wynaut",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
     "types": [
-      "normal",
-      "water"
+      "psychic"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-01T02:09:40.290Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-10-01T08:58:03.462Z"
   },
   "pulls": [
+    {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-01T08:58:03.462Z"
+    },
     {
       "id": 400,
       "name": "bibarel",
@@ -119,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-29T13:05:41.437Z"
-    },
-    {
-      "id": 704,
-      "name": "goomy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-29T06:14:44.370Z"
     }
   ],
   "pokemon": {
@@ -598,6 +597,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:37:19.107Z",
       "lastPulledAt": "2026-09-20T01:37:19.107Z"
+    },
+    "360": {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-01T08:58:03.462Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T08:58:03.462Z",
+      "lastPulledAt": "2026-10-01T08:58:03.462Z"
     },
     "374": {
       "id": 374,
