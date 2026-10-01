@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T23:09:07.416Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-10-01T02:09:40.290Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 400,
+    "name": "bibarel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
     "types": [
-      "grass"
+      "normal",
+      "water"
     ],
-    "totalStats": 420,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-30T23:09:07.416Z"
+    "pulledAt": "2026-10-01T02:09:40.290Z"
   },
   "pulls": [
+    {
+      "id": 400,
+      "name": "bibarel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:09:40.290Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -117,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-29T06:14:44.370Z"
-    },
-    {
-      "id": 550,
-      "name": "basculin-red-striped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-29T00:38:26.955Z"
     }
   ],
   "pokemon": {
@@ -676,6 +678,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T10:23:24.168Z",
       "lastPulledAt": "2026-09-24T10:23:24.168Z"
+    },
+    "400": {
+      "id": 400,
+      "name": "bibarel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:09:40.290Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T02:09:40.290Z",
+      "lastPulledAt": "2026-10-01T02:09:40.290Z"
     },
     "405": {
       "id": 405,
