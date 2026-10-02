@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T21:07:05.515Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-02T00:46:07.365Z",
   "lastPull": {
-    "id": 61,
-    "name": "poliwhirl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "id": 204,
+    "name": "pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
     "types": [
-      "water"
+      "bug"
     ],
-    "totalStats": 385,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-01T21:07:05.515Z"
+    "pulledAt": "2026-10-02T00:46:07.365Z"
   },
   "pulls": [
+    {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-02T00:46:07.365Z"
+    },
     {
       "id": 61,
       "name": "poliwhirl",
@@ -116,18 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-30T01:34:39.627Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T22:36:58.866Z"
     }
   ],
   "pokemon": {
@@ -363,6 +362,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:38.712Z",
       "lastPulledAt": "2026-09-16T01:47:38.712Z"
+    },
+    "204": {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-02T00:46:07.365Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T00:46:07.365Z",
+      "lastPulledAt": "2026-10-02T00:46:07.365Z"
     },
     "207": {
       "id": 207,
