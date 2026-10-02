@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-02T12:54:23.355Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T18:16:17.037Z",
   "lastPull": {
-    "id": 336,
-    "name": "seviper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "id": 469,
+    "name": "yanmega",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
     "types": [
-      "poison"
+      "bug",
+      "flying"
     ],
-    "totalStats": 458,
-    "grade": "R",
-    "pulledAt": "2026-10-02T12:54:23.355Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-02T18:16:17.037Z"
   },
   "pulls": [
+    {
+      "id": 469,
+      "name": "yanmega",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T18:16:17.037Z"
+    },
     {
       "id": 336,
       "name": "seviper",
@@ -115,17 +128,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-30T19:20:50.046Z"
-    },
-    {
-      "id": 853,
-      "name": "grapploct",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-30T14:09:16.404Z"
     }
   ],
   "pokemon": {
@@ -826,6 +828,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:46:04.968Z",
       "lastPulledAt": "2026-09-27T10:46:04.968Z"
+    },
+    "469": {
+      "id": 469,
+      "name": "yanmega",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T18:16:17.037Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T18:16:17.037Z",
+      "lastPulledAt": "2026-10-02T18:16:17.037Z"
     },
     "478": {
       "id": 478,
