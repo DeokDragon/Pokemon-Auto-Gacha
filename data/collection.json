@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-02T06:19:13.555Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-02T12:54:23.355Z",
   "lastPull": {
-    "id": 1022,
-    "name": "iron-boulder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+    "id": 336,
+    "name": "seviper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
     "types": [
-      "rock",
-      "psychic"
+      "poison"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T06:19:13.555Z"
+    "totalStats": 458,
+    "grade": "R",
+    "pulledAt": "2026-10-02T12:54:23.355Z"
   },
   "pulls": [
+    {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-10-02T12:54:23.355Z"
+    },
     {
       "id": 1022,
       "name": "iron-boulder",
@@ -116,18 +126,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-30T14:09:16.404Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T07:26:36.857Z"
     }
   ],
   "pokemon": {
@@ -595,6 +593,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:51:11.815Z",
       "lastPulledAt": "2026-09-18T10:51:11.815Z"
+    },
+    "336": {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-10-02T12:54:23.355Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T12:54:23.355Z",
+      "lastPulledAt": "2026-10-02T12:54:23.355Z"
     },
     "338": {
       "id": 338,
