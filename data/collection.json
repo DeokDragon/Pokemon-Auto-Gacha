@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-03T01:19:34.137Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-03T06:40:56.925Z",
   "lastPull": {
-    "id": 928,
-    "name": "smoliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "id": 29,
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": [
-      "grass",
-      "normal"
+      "poison"
     ],
-    "totalStats": 260,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-10-03T01:19:34.137Z"
+    "pulledAt": "2026-10-03T06:40:56.925Z"
   },
   "pulls": [
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-03T06:40:56.925Z"
+    },
     {
       "id": 928,
       "name": "smoliv",
@@ -117,18 +127,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-01T08:58:03.462Z"
-    },
-    {
-      "id": 400,
-      "name": "bibarel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
-      "types": [
-        "normal",
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-01T02:09:40.290Z"
     }
   ],
   "pokemon": {
@@ -203,10 +201,10 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-17T01:21:57.357Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
-      "lastPulledAt": "2026-09-17T01:21:57.357Z"
+      "lastPulledAt": "2026-10-03T06:40:56.925Z"
     },
     "61": {
       "id": 61,
