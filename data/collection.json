@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-02T22:21:18.088Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-03T01:19:34.137Z",
   "lastPull": {
-    "id": 141,
-    "name": "kabutops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "id": 928,
+    "name": "smoliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
     "types": [
-      "rock",
-      "water"
+      "grass",
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-02T22:21:18.088Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-10-03T01:19:34.137Z"
   },
   "pulls": [
+    {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:19:34.137Z"
+    },
     {
       "id": 141,
       "name": "kabutops",
@@ -117,17 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-01T02:09:40.290Z"
-    },
-    {
-      "id": 811,
-      "name": "thwackey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-30T23:09:07.416Z"
     }
   ],
   "pokemon": {
@@ -1479,6 +1480,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:48.987Z",
       "lastPulledAt": "2026-09-16T01:42:48.987Z"
+    },
+    "928": {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:19:34.137Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T01:19:34.137Z",
+      "lastPulledAt": "2026-10-03T01:19:34.137Z"
     },
     "935": {
       "id": 935,
