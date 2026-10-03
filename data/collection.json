@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-10-03T12:05:14.057Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-10-03T16:13:45.406Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 711,
+    "name": "gourgeist-average",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
     "types": [
-      "fire"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-10-03T12:05:14.057Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-10-03T16:13:45.406Z"
   },
   "pulls": [
+    {
+      "id": 711,
+      "name": "gourgeist-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-10-03T16:13:45.406Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -116,17 +129,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-01T21:07:05.515Z"
-    },
-    {
-      "id": 878,
-      "name": "cufant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-01T16:18:08.819Z"
     }
   ],
   "pokemon": {
@@ -1138,6 +1140,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:14:44.370Z",
       "lastPulledAt": "2026-09-29T06:14:44.370Z"
+    },
+    "711": {
+      "id": 711,
+      "name": "gourgeist-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-10-03T16:13:45.406Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T16:13:45.406Z",
+      "lastPulledAt": "2026-10-03T16:13:45.406Z"
     },
     "753": {
       "id": 753,
