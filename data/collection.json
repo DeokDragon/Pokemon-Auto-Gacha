@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-10-03T16:13:45.406Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-10-03T19:17:42.450Z",
   "lastPull": {
-    "id": 711,
-    "name": "gourgeist-average",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "ghost",
-      "grass"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-10-03T16:13:45.406Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T19:17:42.450Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T19:17:42.450Z"
+    },
     {
       "id": 711,
       "name": "gourgeist-average",
@@ -118,17 +130,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-02T00:46:07.365Z"
-    },
-    {
-      "id": 61,
-      "name": "poliwhirl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-01T21:07:05.515Z"
     }
   ],
   "pokemon": {
@@ -627,6 +628,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:51:11.815Z",
       "lastPulledAt": "2026-09-18T10:51:11.815Z"
+    },
+    "330": {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T19:17:42.450Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T19:17:42.450Z",
+      "lastPulledAt": "2026-10-03T19:17:42.450Z"
     },
     "336": {
       "id": 336,
