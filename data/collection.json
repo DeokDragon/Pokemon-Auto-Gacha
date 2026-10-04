@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-04T12:47:01.952Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T17:06:26.458Z",
   "lastPull": {
-    "id": 173,
-    "name": "cleffa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "fairy"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 218,
-    "grade": "N",
-    "pulledAt": "2026-10-04T12:47:01.952Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T17:06:26.458Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T17:06:26.458Z"
+    },
     {
       "id": 173,
       "name": "cleffa",
@@ -117,18 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-03T01:19:34.137Z"
-    },
-    {
-      "id": 141,
-      "name": "kabutops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-02T22:21:18.088Z"
     }
   ],
   "pokemon": {
@@ -814,6 +815,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:15:10.250Z",
       "lastPulledAt": "2026-09-16T17:15:10.250Z"
+    },
+    "392": {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T17:06:26.458Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T17:06:26.458Z",
+      "lastPulledAt": "2026-10-04T17:06:26.458Z"
     },
     "397": {
       "id": 397,
