@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T08:58:04.061Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T18:18:20.129Z",
   "lastPull": {
-    "id": 792,
-    "name": "lunala",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+    "id": 254,
+    "name": "sceptile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
     "types": [
-      "psychic",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-05T08:58:04.061Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-05T18:18:20.129Z"
   },
   "pulls": [
+    {
+      "id": 254,
+      "name": "sceptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T18:18:20.129Z"
+    },
     {
       "id": 792,
       "name": "lunala",
@@ -118,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-03T22:13:32.415Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T19:17:42.450Z"
     }
   ],
   "pokemon": {
@@ -551,6 +549,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:20:19.971Z",
       "lastPulledAt": "2026-09-21T13:20:19.971Z"
+    },
+    "254": {
+      "id": 254,
+      "name": "sceptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T18:18:20.129Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T18:18:20.129Z",
+      "lastPulledAt": "2026-10-05T18:18:20.129Z"
     },
     "258": {
       "id": 258,
