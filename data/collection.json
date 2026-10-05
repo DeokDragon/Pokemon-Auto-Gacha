@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-05T02:05:46.540Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-05T08:58:04.061Z",
   "lastPull": {
-    "id": 134,
-    "name": "vaporeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "id": 792,
+    "name": "lunala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
     "types": [
-      "water"
+      "psychic",
+      "ghost"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-05T02:05:46.540Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-05T08:58:04.061Z"
   },
   "pulls": [
+    {
+      "id": 792,
+      "name": "lunala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-05T08:58:04.061Z"
+    },
     {
       "id": 134,
       "name": "vaporeon",
@@ -117,18 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-03T19:17:42.450Z"
-    },
-    {
-      "id": 711,
-      "name": "gourgeist-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-10-03T16:13:45.406Z"
     }
   ],
   "pokemon": {
@@ -1359,6 +1360,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T15:56:59.680Z",
       "lastPulledAt": "2026-09-25T15:56:59.680Z"
+    },
+    "792": {
+      "id": 792,
+      "name": "lunala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-05T08:58:04.061Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T08:58:04.061Z",
+      "lastPulledAt": "2026-10-05T08:58:04.061Z"
     },
     "796": {
       "id": 796,
