@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-06T00:10:42.313Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-06T06:31:56.869Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 73,
+    "name": "tentacruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
     "types": [
       "water",
-      "fighting"
+      "poison"
     ],
-    "totalStats": 530,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-06T00:10:42.313Z"
+    "pulledAt": "2026-10-06T06:31:56.869Z"
   },
   "pulls": [
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T06:31:56.869Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -117,18 +129,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-04T06:26:26.091Z"
-    },
-    {
-      "id": 347,
-      "name": "anorith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-04T00:46:47.624Z"
     }
   ],
   "pokemon": {
@@ -222,6 +222,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T21:07:05.515Z",
       "lastPulledAt": "2026-10-01T21:07:05.515Z"
+    },
+    "73": {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T06:31:56.869Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T06:31:56.869Z",
+      "lastPulledAt": "2026-10-06T06:31:56.869Z"
     },
     "83": {
       "id": 83,
