@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-07T09:06:34.631Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-07T16:25:46.794Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 205,
+    "name": "forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
     "types": [
-      "dark",
-      "fighting"
+      "bug",
+      "steel"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-10-07T09:06:34.631Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-10-07T16:25:46.794Z"
   },
   "pulls": [
+    {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-07T16:25:46.794Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -120,17 +132,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-05T08:58:04.061Z"
-    },
-    {
-      "id": 134,
-      "name": "vaporeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T02:05:46.540Z"
     }
   ],
   "pokemon": {
@@ -443,6 +444,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T00:46:07.365Z",
       "lastPulledAt": "2026-10-02T00:46:07.365Z"
+    },
+    "205": {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-07T16:25:46.794Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T16:25:46.794Z",
+      "lastPulledAt": "2026-10-07T16:25:46.794Z"
     },
     "207": {
       "id": 207,
