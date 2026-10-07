@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T16:25:46.794Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T21:29:34.648Z",
   "lastPull": {
-    "id": 205,
-    "name": "forretress",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "id": 875,
+    "name": "eiscue-ice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
     "types": [
-      "bug",
-      "steel"
+      "ice"
     ],
-    "totalStats": 465,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-07T16:25:46.794Z"
+    "pulledAt": "2026-10-07T21:29:34.648Z"
   },
   "pulls": [
+    {
+      "id": 875,
+      "name": "eiscue-ice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-07T21:29:34.648Z"
+    },
     {
       "id": 205,
       "name": "forretress",
@@ -120,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-05T18:18:20.129Z"
-    },
-    {
-      "id": 792,
-      "name": "lunala",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
-      "types": [
-        "psychic",
-        "ghost"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-05T08:58:04.061Z"
     }
   ],
   "pokemon": {
@@ -1656,6 +1654,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:10:40.850Z",
       "lastPulledAt": "2026-09-27T19:10:40.850Z"
+    },
+    "875": {
+      "id": 875,
+      "name": "eiscue-ice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-07T21:29:34.648Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T21:29:34.648Z",
+      "lastPulledAt": "2026-10-07T21:29:34.648Z"
     },
     "878": {
       "id": 878,
