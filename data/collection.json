@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-08T14:56:06.496Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-08T20:37:15.249Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 711,
+    "name": "gourgeist-average",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
     "types": [
-      "electric",
-      "fairy"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 431,
+    "totalStats": 494,
     "grade": "R",
-    "pulledAt": "2026-10-08T14:56:06.496Z"
+    "pulledAt": "2026-10-08T20:37:15.249Z"
   },
   "pulls": [
+    {
+      "id": 711,
+      "name": "gourgeist-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-10-08T20:37:15.249Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -120,18 +132,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-06T19:04:27.960Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-10-06T13:36:27.126Z"
     }
   ],
   "pokemon": {
@@ -1437,10 +1437,10 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-10-03T16:13:45.406Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:13:45.406Z",
-      "lastPulledAt": "2026-10-03T16:13:45.406Z"
+      "lastPulledAt": "2026-10-08T20:37:15.249Z"
     },
     "753": {
       "id": 753,
