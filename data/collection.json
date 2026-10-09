@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T19:20:53.667Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T23:25:09.506Z",
   "lastPull": {
-    "id": 235,
-    "name": "smeargle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "id": 937,
+    "name": "ceruledge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
     "types": [
-      "normal"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-09T19:20:53.667Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T23:25:09.506Z"
   },
   "pulls": [
+    {
+      "id": 937,
+      "name": "ceruledge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T23:25:09.506Z"
+    },
     {
       "id": 235,
       "name": "smeargle",
@@ -118,18 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-07T21:29:34.648Z"
-    },
-    {
-      "id": 205,
-      "name": "forretress",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-07T16:25:46.794Z"
     }
   ],
   "pokemon": {
@@ -1934,6 +1935,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T18:52:11.096Z",
       "lastPulledAt": "2026-09-21T18:52:11.096Z"
+    },
+    "937": {
+      "id": 937,
+      "name": "ceruledge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T23:25:09.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T23:25:09.506Z",
+      "lastPulledAt": "2026-10-09T23:25:09.506Z"
     },
     "945": {
       "id": 945,
