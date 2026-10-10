@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T19:21:44.497Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T22:50:35.800Z",
   "lastPull": {
-    "id": 748,
-    "name": "toxapex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "id": 53,
+    "name": "persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
     "types": [
-      "poison",
-      "water"
+      "normal"
     ],
-    "totalStats": 495,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-10T19:21:44.497Z"
+    "pulledAt": "2026-10-10T22:50:35.800Z"
   },
   "pulls": [
+    {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-10T22:50:35.800Z"
+    },
     {
       "id": 748,
       "name": "toxapex",
@@ -118,18 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-09T00:39:33.081Z"
-    },
-    {
-      "id": 711,
-      "name": "gourgeist-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-10-08T20:37:15.249Z"
     }
   ],
   "pokemon": {
@@ -224,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-10-03T06:40:56.925Z"
+    },
+    "53": {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-10T22:50:35.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T22:50:35.800Z",
+      "lastPulledAt": "2026-10-10T22:50:35.800Z"
     },
     "61": {
       "id": 61,
