@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-10T02:36:09.663Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T09:00:09.123Z",
   "lastPull": {
-    "id": 837,
-    "name": "rolycoly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "id": 13,
+    "name": "weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "types": [
-      "rock"
+      "bug",
+      "poison"
     ],
-    "totalStats": 240,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-10-10T02:36:09.663Z"
+    "pulledAt": "2026-10-10T09:00:09.123Z"
   },
   "pulls": [
+    {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-10T09:00:09.123Z"
+    },
     {
       "id": 837,
       "name": "rolycoly",
@@ -118,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-08T07:31:28.379Z"
-    },
-    {
-      "id": 274,
-      "name": "nuzleaf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-08T01:15:19.538Z"
     }
   ],
   "pokemon": {
@@ -162,6 +163,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:51:22.093Z",
       "lastPulledAt": "2026-09-17T22:51:22.093Z"
+    },
+    "13": {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-10T09:00:09.123Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T09:00:09.123Z",
+      "lastPulledAt": "2026-10-10T09:00:09.123Z"
     },
     "15": {
       "id": 15,
