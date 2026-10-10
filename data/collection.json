@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T23:25:09.506Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-10T02:36:09.663Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 837,
+    "name": "rolycoly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
     "types": [
-      "fire",
-      "ghost"
+      "rock"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T23:25:09.506Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-10T02:36:09.663Z"
   },
   "pulls": [
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-10T02:36:09.663Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -120,17 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-08T01:15:19.538Z"
-    },
-    {
-      "id": 875,
-      "name": "eiscue-ice",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-07T21:29:34.648Z"
     }
   ],
   "pokemon": {
@@ -1673,6 +1672,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:12:51.437Z",
       "lastPulledAt": "2026-09-18T23:12:51.437Z"
+    },
+    "837": {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-10T02:36:09.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T02:36:09.663Z",
+      "lastPulledAt": "2026-10-10T02:36:09.663Z"
     },
     "840": {
       "id": 840,
