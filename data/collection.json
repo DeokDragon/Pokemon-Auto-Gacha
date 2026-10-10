@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-10T09:00:09.123Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-10T15:15:46.389Z",
   "lastPull": {
-    "id": 13,
-    "name": "weedle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "id": 324,
+    "name": "torkoal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
     "types": [
-      "bug",
-      "poison"
+      "fire"
     ],
-    "totalStats": 195,
-    "grade": "N",
-    "pulledAt": "2026-10-10T09:00:09.123Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-10T15:15:46.389Z"
   },
   "pulls": [
+    {
+      "id": 324,
+      "name": "torkoal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-10T15:15:46.389Z"
+    },
     {
       "id": 13,
       "name": "weedle",
@@ -119,18 +129,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-10-08T14:56:06.496Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T07:31:28.379Z"
     }
   ],
   "pokemon": {
@@ -785,6 +783,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:51:11.815Z",
       "lastPulledAt": "2026-09-18T10:51:11.815Z"
+    },
+    "324": {
+      "id": 324,
+      "name": "torkoal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-10T15:15:46.389Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T15:15:46.389Z",
+      "lastPulledAt": "2026-10-10T15:15:46.389Z"
     },
     "330": {
       "id": 330,
