@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-10T15:15:46.389Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-10T19:21:44.497Z",
   "lastPull": {
-    "id": 324,
-    "name": "torkoal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "id": 748,
+    "name": "toxapex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
     "types": [
-      "fire"
+      "poison",
+      "water"
     ],
-    "totalStats": 470,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-10T15:15:46.389Z"
+    "pulledAt": "2026-10-10T19:21:44.497Z"
   },
   "pulls": [
+    {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-10T19:21:44.497Z"
+    },
     {
       "id": 324,
       "name": "torkoal",
@@ -117,18 +130,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-10-08T20:37:15.249Z"
-    },
-    {
-      "id": 702,
-      "name": "dedenne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 431,
-      "grade": "R",
-      "pulledAt": "2026-10-08T14:56:06.496Z"
     }
   ],
   "pokemon": {
@@ -1515,6 +1516,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:13:45.406Z",
       "lastPulledAt": "2026-10-08T20:37:15.249Z"
+    },
+    "748": {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-10T19:21:44.497Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T19:21:44.497Z",
+      "lastPulledAt": "2026-10-10T19:21:44.497Z"
     },
     "753": {
       "id": 753,
