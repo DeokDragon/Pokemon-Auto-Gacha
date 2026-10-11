@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-11T01:40:48.197Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-11T07:52:28.902Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 119,
+    "name": "seaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
     "types": [
-      "bug",
-      "fire"
+      "water"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T01:40:48.197Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-11T07:52:28.902Z"
   },
   "pulls": [
+    {
+      "id": 119,
+      "name": "seaking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:52:28.902Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -118,18 +128,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-09T13:52:06.357Z"
-    },
-    {
-      "id": 318,
-      "name": "carvanha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-09T06:46:28.212Z"
     }
   ],
   "pokemon": {
@@ -286,6 +284,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:52:58.588Z",
       "lastPulledAt": "2026-09-19T10:52:58.588Z"
+    },
+    "119": {
+      "id": 119,
+      "name": "seaking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:52:28.902Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T07:52:28.902Z",
+      "lastPulledAt": "2026-10-11T07:52:28.902Z"
     },
     "121": {
       "id": 121,
