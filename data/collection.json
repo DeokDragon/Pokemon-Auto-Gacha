@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-10T22:50:35.800Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-11T01:40:48.197Z",
   "lastPull": {
-    "id": 53,
-    "name": "persian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "id": 637,
+    "name": "volcarona",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
     "types": [
-      "normal"
+      "bug",
+      "fire"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-10T22:50:35.800Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T01:40:48.197Z"
   },
   "pulls": [
+    {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T01:40:48.197Z"
+    },
     {
       "id": 53,
       "name": "persian",
@@ -117,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-09T06:46:28.212Z"
-    },
-    {
-      "id": 431,
-      "name": "glameow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-09T00:39:33.081Z"
     }
   ],
   "pokemon": {
@@ -1419,6 +1421,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:31:02.765Z",
       "lastPulledAt": "2026-09-17T06:31:02.765Z"
+    },
+    "637": {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T01:40:48.197Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T01:40:48.197Z",
+      "lastPulledAt": "2026-10-11T01:40:48.197Z"
     },
     "654": {
       "id": 654,
