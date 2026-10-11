@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T19:12:42.080Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T22:58:35.196Z",
   "lastPull": {
-    "id": 74,
-    "name": "geodude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "id": 717,
+    "name": "yveltal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
     "types": [
-      "rock",
-      "ground"
+      "dark",
+      "flying"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-11T19:12:42.080Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-11T22:58:35.196Z"
   },
   "pulls": [
+    {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T22:58:35.196Z"
+    },
     {
       "id": 74,
       "name": "geodude",
@@ -118,18 +130,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-10T02:36:09.663Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T23:25:09.506Z"
     }
   ],
   "pokemon": {
@@ -1578,6 +1578,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:13:45.406Z",
       "lastPulledAt": "2026-10-08T20:37:15.249Z"
+    },
+    "717": {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T22:58:35.196Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:58:35.196Z",
+      "lastPulledAt": "2026-10-11T22:58:35.196Z"
     },
     "748": {
       "id": 748,
