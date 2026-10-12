@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-10-12T02:16:21.574Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-10-12T09:25:26.820Z",
   "lastPull": {
-    "id": 858,
-    "name": "hatterene",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "id": 966,
+    "name": "revavroom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
     "types": [
-      "psychic",
-      "fairy"
+      "steel",
+      "poison"
     ],
-    "totalStats": 510,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-12T02:16:21.574Z"
+    "pulledAt": "2026-10-12T09:25:26.820Z"
   },
   "pulls": [
+    {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T09:25:26.820Z"
+    },
     {
       "id": 858,
       "name": "hatterene",
@@ -119,18 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-10T15:15:46.389Z"
-    },
-    {
-      "id": 13,
-      "name": "weedle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-10T09:00:09.123Z"
     }
   ],
   "pokemon": {
@@ -2155,6 +2155,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T14:46:18.729Z",
       "lastPulledAt": "2026-10-11T14:46:18.729Z"
+    },
+    "966": {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T09:25:26.820Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T09:25:26.820Z",
+      "lastPulledAt": "2026-10-12T09:25:26.820Z"
     },
     "967": {
       "id": 967,
