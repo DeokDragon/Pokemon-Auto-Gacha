@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-12T09:25:26.820Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-12T19:15:05.972Z",
   "lastPull": {
-    "id": 966,
-    "name": "revavroom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    "id": 804,
+    "name": "naganadel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
     "types": [
-      "steel",
-      "poison"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 500,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-10-12T09:25:26.820Z"
+    "pulledAt": "2026-10-12T19:15:05.972Z"
   },
   "pulls": [
+    {
+      "id": 804,
+      "name": "naganadel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T19:15:05.972Z"
+    },
     {
       "id": 966,
       "name": "revavroom",
@@ -120,17 +132,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-10T19:21:44.497Z"
-    },
-    {
-      "id": 324,
-      "name": "torkoal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-10T15:15:46.389Z"
     }
   ],
   "pokemon": {
@@ -1753,6 +1754,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T12:04:19.162Z",
       "lastPulledAt": "2026-09-17T12:04:19.162Z"
+    },
+    "804": {
+      "id": 804,
+      "name": "naganadel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T19:15:05.972Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T19:15:05.972Z",
+      "lastPulledAt": "2026-10-12T19:15:05.972Z"
     },
     "807": {
       "id": 807,
