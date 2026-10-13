@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T16:10:12.784Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T21:20:30.296Z",
   "lastPull": {
-    "id": 764,
-    "name": "comfey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "id": 378,
+    "name": "regice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
     "types": [
-      "fairy"
+      "ice"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-13T16:10:12.784Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T21:20:30.296Z"
   },
   "pulls": [
+    {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T21:20:30.296Z"
+    },
     {
       "id": 764,
       "name": "comfey",
@@ -118,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-11T14:46:18.729Z"
-    },
-    {
-      "id": 119,
-      "name": "seaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-11T07:52:28.902Z"
     }
   ],
   "pokemon": {
@@ -999,6 +999,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T21:59:45.076Z",
       "lastPulledAt": "2026-09-26T21:59:45.076Z"
+    },
+    "378": {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T21:20:30.296Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T21:20:30.296Z",
+      "lastPulledAt": "2026-10-13T21:20:30.296Z"
     },
     "381": {
       "id": 381,
