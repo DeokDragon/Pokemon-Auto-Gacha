@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-10-12T19:15:05.972Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-10-13T01:26:21.301Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "poison",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T19:15:05.972Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-13T01:26:21.301Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-13T01:26:21.301Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -120,18 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-10T22:50:35.800Z"
-    },
-    {
-      "id": 748,
-      "name": "toxapex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-10T19:21:44.497Z"
     }
   ],
   "pokemon": {
@@ -226,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-10-03T06:40:56.925Z"
+    },
+    "52": {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-13T01:26:21.301Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T01:26:21.301Z",
+      "lastPulledAt": "2026-10-13T01:26:21.301Z"
     },
     "53": {
       "id": 53,
