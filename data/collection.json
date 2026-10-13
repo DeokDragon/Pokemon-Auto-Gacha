@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-13T01:26:21.301Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-13T08:19:32.626Z",
   "lastPull": {
-    "id": 52,
-    "name": "meowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "id": 812,
+    "name": "rillaboom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-13T01:26:21.301Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T08:19:32.626Z"
   },
   "pulls": [
+    {
+      "id": 812,
+      "name": "rillaboom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T08:19:32.626Z"
+    },
     {
       "id": 52,
       "name": "meowth",
@@ -119,17 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-11T01:40:48.197Z"
-    },
-    {
-      "id": 53,
-      "name": "persian",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-10T22:50:35.800Z"
     }
   ],
   "pokemon": {
@@ -1824,10 +1824,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-18T23:12:51.437Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:12:51.437Z",
-      "lastPulledAt": "2026-09-18T23:12:51.437Z"
+      "lastPulledAt": "2026-10-13T08:19:32.626Z"
     },
     "837": {
       "id": 837,
