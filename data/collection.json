@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-14T19:37:33.572Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-14T22:38:17.168Z",
   "lastPull": {
-    "id": 292,
-    "name": "shedinja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
     "types": [
-      "bug",
-      "ghost"
+      "rock",
+      "electric"
     ],
-    "totalStats": 236,
-    "grade": "N",
-    "pulledAt": "2026-10-14T19:37:33.572Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T22:38:17.168Z"
   },
   "pulls": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T22:38:17.168Z"
+    },
     {
       "id": 292,
       "name": "shedinja",
@@ -116,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-13T01:26:21.301Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T19:15:05.972Z"
     }
   ],
   "pokemon": {
@@ -2402,6 +2402,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:26:11.397Z",
       "lastPulledAt": "2026-09-24T19:26:11.397Z"
+    },
+    "995": {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T22:38:17.168Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T22:38:17.168Z",
+      "lastPulledAt": "2026-10-14T22:38:17.168Z"
     },
     "1022": {
       "id": 1022,
