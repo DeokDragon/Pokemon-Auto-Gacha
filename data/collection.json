@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-13T21:20:30.296Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-14T00:30:46.651Z",
   "lastPull": {
-    "id": 378,
-    "name": "regice",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "id": 729,
+    "name": "brionne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
     "types": [
-      "ice"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T21:20:30.296Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-14T00:30:46.651Z"
   },
   "pulls": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-14T00:30:46.651Z"
+    },
     {
       "id": 378,
       "name": "regice",
@@ -117,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-11T19:12:42.080Z"
-    },
-    {
-      "id": 965,
-      "name": "varoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-11T14:46:18.729Z"
     }
   ],
   "pokemon": {
@@ -1623,6 +1622,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:58:35.196Z",
       "lastPulledAt": "2026-10-11T22:58:35.196Z"
+    },
+    "729": {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-14T00:30:46.651Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T00:30:46.651Z",
+      "lastPulledAt": "2026-10-14T00:30:46.651Z"
     },
     "748": {
       "id": 748,
