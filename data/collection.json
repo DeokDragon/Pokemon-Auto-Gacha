@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-10-14T15:25:06.877Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-10-14T19:37:33.572Z",
   "lastPull": {
-    "id": 948,
-    "name": "toedscool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "id": 292,
+    "name": "shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
     "types": [
-      "ground",
-      "grass"
+      "bug",
+      "ghost"
     ],
-    "totalStats": 335,
+    "totalStats": 236,
     "grade": "N",
-    "pulledAt": "2026-10-14T15:25:06.877Z"
+    "pulledAt": "2026-10-14T19:37:33.572Z"
   },
   "pulls": [
+    {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-10-14T19:37:33.572Z"
+    },
     {
       "id": 948,
       "name": "toedscool",
@@ -116,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-12T19:15:05.972Z"
-    },
-    {
-      "id": 966,
-      "name": "revavroom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T09:25:26.820Z"
     }
   ],
   "pokemon": {
@@ -765,6 +765,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T01:15:19.538Z",
       "lastPulledAt": "2026-10-08T01:15:19.538Z"
+    },
+    "292": {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-10-14T19:37:33.572Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T19:37:33.572Z",
+      "lastPulledAt": "2026-10-14T19:37:33.572Z"
     },
     "306": {
       "id": 306,
