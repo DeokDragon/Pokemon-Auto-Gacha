@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-15T15:16:00.683Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T19:15:02.352Z",
   "lastPull": {
-    "id": 132,
-    "name": "ditto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "id": 105,
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "types": [
-      "normal"
+      "ground"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-10-15T15:16:00.683Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-15T19:15:02.352Z"
   },
   "pulls": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-15T19:15:02.352Z"
+    },
     {
       "id": 132,
       "name": "ditto",
@@ -118,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-14T05:22:21.544Z"
-    },
-    {
-      "id": 729,
-      "name": "brionne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-14T00:30:46.651Z"
     }
   ],
   "pokemon": {
@@ -332,6 +332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:52:58.588Z",
       "lastPulledAt": "2026-09-19T10:52:58.588Z"
+    },
+    "105": {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-15T19:15:02.352Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T19:15:02.352Z",
+      "lastPulledAt": "2026-10-15T19:15:02.352Z"
     },
     "119": {
       "id": 119,
