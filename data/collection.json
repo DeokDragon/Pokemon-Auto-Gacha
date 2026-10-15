@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-15T19:15:02.352Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-15T22:27:23.196Z",
   "lastPull": {
-    "id": 105,
-    "name": "marowak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "id": 540,
+    "name": "sewaddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
     "types": [
-      "ground"
+      "bug",
+      "grass"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-15T19:15:02.352Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-15T22:27:23.196Z"
   },
   "pulls": [
+    {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-15T22:27:23.196Z"
+    },
     {
       "id": 105,
       "name": "marowak",
@@ -118,17 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-14T10:29:19.276Z"
-    },
-    {
-      "id": 800,
-      "name": "necrozma",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-14T05:22:21.544Z"
     }
   ],
   "pokemon": {
@@ -1355,6 +1357,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:30:52.387Z",
       "lastPulledAt": "2026-09-21T22:30:52.387Z"
+    },
+    "540": {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-15T22:27:23.196Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T22:27:23.196Z",
+      "lastPulledAt": "2026-10-15T22:27:23.196Z"
     },
     "543": {
       "id": 543,
