@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-10-15T05:41:14.296Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-10-15T10:22:42.819Z",
   "lastPull": {
-    "id": 75,
-    "name": "graveler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "id": 256,
+    "name": "combusken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
     "types": [
-      "rock",
-      "ground"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-10-15T05:41:14.296Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-15T10:22:42.819Z"
   },
   "pulls": [
+    {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T10:22:42.819Z"
+    },
     {
       "id": 75,
       "name": "graveler",
@@ -118,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-13T21:20:30.296Z"
-    },
-    {
-      "id": 764,
-      "name": "comfey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-13T16:10:12.784Z"
     }
   ],
   "pokemon": {
@@ -721,6 +722,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T18:18:20.129Z",
       "lastPulledAt": "2026-10-05T18:18:20.129Z"
+    },
+    "256": {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T10:22:42.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T10:22:42.819Z",
+      "lastPulledAt": "2026-10-15T10:22:42.819Z"
     },
     "258": {
       "id": 258,
