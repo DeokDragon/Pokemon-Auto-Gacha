@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-15T00:53:29.616Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-15T05:41:14.296Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 75,
+    "name": "graveler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
     "types": [
-      "electric"
+      "rock",
+      "ground"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-15T00:53:29.616Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-10-15T05:41:14.296Z"
   },
   "pulls": [
+    {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-10-15T05:41:14.296Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -116,17 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-13T16:10:12.784Z"
-    },
-    {
-      "id": 812,
-      "name": "rillaboom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T08:19:32.626Z"
     }
   ],
   "pokemon": {
@@ -298,6 +300,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T19:12:42.080Z",
       "lastPulledAt": "2026-10-11T19:12:42.080Z"
+    },
+    "75": {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-10-15T05:41:14.296Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T05:41:14.296Z",
+      "lastPulledAt": "2026-10-15T05:41:14.296Z"
     },
     "83": {
       "id": 83,
