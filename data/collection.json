@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T21:24:02.393Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T23:46:45.836Z",
   "lastPull": {
-    "id": 659,
-    "name": "bunnelby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "id": 917,
+    "name": "tarountula",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
     "types": [
-      "normal"
+      "bug"
     ],
-    "totalStats": 237,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-10-16T21:24:02.393Z"
+    "pulledAt": "2026-10-16T23:46:45.836Z"
   },
   "pulls": [
+    {
+      "id": 917,
+      "name": "tarountula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-16T23:46:45.836Z"
+    },
     {
       "id": 659,
       "name": "bunnelby",
@@ -116,18 +127,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-10-15T15:16:00.683Z"
-    },
-    {
-      "id": 256,
-      "name": "combusken",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-15T10:22:42.819Z"
     }
   ],
   "pokemon": {
@@ -2305,6 +2304,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T00:10:42.313Z",
       "lastPulledAt": "2026-10-06T00:10:42.313Z"
+    },
+    "917": {
+      "id": 917,
+      "name": "tarountula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-16T23:46:45.836Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T23:46:45.836Z",
+      "lastPulledAt": "2026-10-16T23:46:45.836Z"
     },
     "921": {
       "id": 921,
