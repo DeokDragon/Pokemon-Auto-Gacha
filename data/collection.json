@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T14:20:50.999Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T18:16:50.129Z",
   "lastPull": {
-    "id": 83,
-    "name": "farfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "id": 156,
+    "name": "quilava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 377,
-    "grade": "N",
-    "pulledAt": "2026-10-16T14:20:50.999Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-16T18:16:50.129Z"
   },
   "pulls": [
+    {
+      "id": 156,
+      "name": "quilava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:16:50.129Z"
+    },
     {
       "id": 83,
       "name": "farfetchd",
@@ -119,17 +129,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-10-15T05:41:14.296Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-15T00:53:29.616Z"
     }
   ],
   "pokemon": {
@@ -483,10 +482,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-16T12:29:41.371Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:29:41.371Z",
-      "lastPulledAt": "2026-09-16T12:29:41.371Z"
+      "lastPulledAt": "2026-10-16T18:16:50.129Z"
     },
     "158": {
       "id": 158,
