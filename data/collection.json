@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-16T09:44:40.452Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-16T14:20:50.999Z",
   "lastPull": {
-    "id": 26,
-    "name": "raichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "id": 83,
+    "name": "farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "types": [
-      "electric"
+      "normal",
+      "flying"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-16T09:44:40.452Z"
+    "totalStats": 377,
+    "grade": "N",
+    "pulledAt": "2026-10-16T14:20:50.999Z"
   },
   "pulls": [
+    {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-10-16T14:20:50.999Z"
+    },
     {
       "id": 26,
       "name": "raichu",
@@ -117,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-15T00:53:29.616Z"
-    },
-    {
-      "id": 995,
-      "name": "iron-thorns",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-      "types": [
-        "rock",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T22:38:17.168Z"
     }
   ],
   "pokemon": {
@@ -343,10 +344,10 @@
       "totalStats": 377,
       "grade": "N",
       "pulledAt": "2026-09-19T10:52:58.588Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:52:58.588Z",
-      "lastPulledAt": "2026-09-19T10:52:58.588Z"
+      "lastPulledAt": "2026-10-16T14:20:50.999Z"
     },
     "105": {
       "id": 105,
