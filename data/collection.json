@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-10-17T19:24:45.325Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-10-17T21:38:24.653Z",
   "lastPull": {
-    "id": 507,
-    "name": "herdier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "id": 316,
+    "name": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
     "types": [
-      "normal"
+      "poison"
     ],
-    "totalStats": 370,
+    "totalStats": 302,
     "grade": "N",
-    "pulledAt": "2026-10-17T19:24:45.325Z"
+    "pulledAt": "2026-10-17T21:38:24.653Z"
   },
   "pulls": [
+    {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:38:24.653Z"
+    },
     {
       "id": 507,
       "name": "herdier",
@@ -114,18 +125,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-16T18:16:50.129Z"
-    },
-    {
-      "id": 83,
-      "name": "farfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 377,
-      "grade": "N",
-      "pulledAt": "2026-10-16T14:20:50.999Z"
     }
   ],
   "pokemon": {
@@ -918,6 +917,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:50:10.306Z",
       "lastPulledAt": "2026-09-22T11:50:10.306Z"
+    },
+    "316": {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:38:24.653Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T21:38:24.653Z",
+      "lastPulledAt": "2026-10-17T21:38:24.653Z"
     },
     "318": {
       "id": 318,
