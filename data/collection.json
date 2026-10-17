@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T10:56:09.023Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T14:08:12.507Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 891,
+    "name": "kubfu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
     "types": [
-      "normal",
       "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T10:56:09.023Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-10-17T14:08:12.507Z"
   },
   "pulls": [
+    {
+      "id": 891,
+      "name": "kubfu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-17T14:08:12.507Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -116,18 +126,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-10-16T05:05:19.211Z"
-    },
-    {
-      "id": 546,
-      "name": "cottonee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-16T00:39:53.228Z"
     }
   ],
   "pokemon": {
@@ -2272,6 +2270,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:16:32.588Z",
       "lastPulledAt": "2026-09-19T01:16:32.588Z"
+    },
+    "891": {
+      "id": 891,
+      "name": "kubfu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-17T14:08:12.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T14:08:12.507Z",
+      "lastPulledAt": "2026-10-17T14:08:12.507Z"
     },
     "893": {
       "id": 893,
