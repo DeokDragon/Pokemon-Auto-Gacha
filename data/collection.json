@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-17T01:38:02.012Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-17T06:13:01.055Z",
   "lastPull": {
-    "id": 534,
-    "name": "conkeldurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "id": 821,
+    "name": "rookidee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
     "types": [
-      "fighting"
+      "flying"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T01:38:02.012Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-10-17T06:13:01.055Z"
   },
   "pulls": [
+    {
+      "id": 821,
+      "name": "rookidee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-17T06:13:01.055Z"
+    },
     {
       "id": 534,
       "name": "conkeldurr",
@@ -116,17 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-15T22:27:23.196Z"
-    },
-    {
-      "id": 105,
-      "name": "marowak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-15T19:15:02.352Z"
     }
   ],
   "pokemon": {
@@ -2072,6 +2072,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:12:51.437Z",
       "lastPulledAt": "2026-10-13T08:19:32.626Z"
+    },
+    "821": {
+      "id": 821,
+      "name": "rookidee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-17T06:13:01.055Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T06:13:01.055Z",
+      "lastPulledAt": "2026-10-17T06:13:01.055Z"
     },
     "836": {
       "id": 836,
