@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T17:09:18.627Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T19:24:45.325Z",
   "lastPull": {
-    "id": 781,
-    "name": "dhelmise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "id": 507,
+    "name": "herdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
     "types": [
-      "ghost",
-      "grass"
+      "normal"
     ],
-    "totalStats": 517,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T17:09:18.627Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-10-17T19:24:45.325Z"
   },
   "pulls": [
+    {
+      "id": 507,
+      "name": "herdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-17T19:24:45.325Z"
+    },
     {
       "id": 781,
       "name": "dhelmise",
@@ -116,17 +126,6 @@
       "totalStats": 377,
       "grade": "N",
       "pulledAt": "2026-10-16T14:20:50.999Z"
-    },
-    {
-      "id": 26,
-      "name": "raichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-16T09:44:40.452Z"
     }
   ],
   "pokemon": {
@@ -1339,6 +1338,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T16:18:04.140Z",
       "lastPulledAt": "2026-09-20T16:18:04.140Z"
+    },
+    "507": {
+      "id": 507,
+      "name": "herdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-17T19:24:45.325Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T19:24:45.325Z",
+      "lastPulledAt": "2026-10-17T19:24:45.325Z"
     },
     "515": {
       "id": 515,
