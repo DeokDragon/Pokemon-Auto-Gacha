@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-18T17:53:59.269Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-18T20:19:54.972Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "electric",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 505,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-18T17:53:59.269Z"
+    "pulledAt": "2026-10-18T20:19:54.972Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T20:19:54.972Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -118,17 +128,6 @@
       "totalStats": 517,
       "grade": "SR",
       "pulledAt": "2026-10-17T17:09:18.627Z"
-    },
-    {
-      "id": 891,
-      "name": "kubfu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-17T14:08:12.507Z"
     }
   ],
   "pokemon": {
@@ -2152,6 +2151,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:12:51.437Z",
       "lastPulledAt": "2026-10-13T08:19:32.626Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T20:19:54.972Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T20:19:54.972Z",
+      "lastPulledAt": "2026-10-18T20:19:54.972Z"
     },
     "821": {
       "id": 821,
