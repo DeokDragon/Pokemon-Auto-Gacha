@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T23:26:29.709Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-18T01:26:50.443Z",
   "lastPull": {
-    "id": 888,
-    "name": "zacian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "id": 895,
+    "name": "regidrago",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
     "types": [
-      "fairy"
+      "dragon"
     ],
-    "totalStats": 660,
-    "grade": "SSR",
-    "pulledAt": "2026-10-17T23:26:29.709Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T01:26:50.443Z"
   },
   "pulls": [
+    {
+      "id": 895,
+      "name": "regidrago",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T01:26:50.443Z"
+    },
     {
       "id": 888,
       "name": "zacian",
@@ -114,17 +125,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-16T23:46:45.836Z"
-    },
-    {
-      "id": 659,
-      "name": "bunnelby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-10-16T21:24:02.393Z"
     }
   ],
   "pokemon": {
@@ -2345,6 +2345,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T22:40:36.818Z",
       "lastPulledAt": "2026-09-24T22:40:36.818Z"
+    },
+    "895": {
+      "id": 895,
+      "name": "regidrago",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T01:26:50.443Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T01:26:50.443Z",
+      "lastPulledAt": "2026-10-18T01:26:50.443Z"
     },
     "896": {
       "id": 896,
