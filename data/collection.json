@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T20:19:54.972Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T22:29:52.472Z",
   "lastPull": {
-    "id": 815,
-    "name": "cinderace",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "id": 118,
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T20:19:54.972Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-18T22:29:52.472Z"
   },
   "pulls": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-18T22:29:52.472Z"
+    },
     {
       "id": 815,
       "name": "cinderace",
@@ -116,18 +127,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-17T19:24:45.325Z"
-    },
-    {
-      "id": 781,
-      "name": "dhelmise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 517,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T17:09:18.627Z"
     }
   ],
   "pokemon": {
@@ -377,6 +376,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:15:02.352Z",
       "lastPulledAt": "2026-10-15T19:15:02.352Z"
+    },
+    "118": {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-18T22:29:52.472Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T22:29:52.472Z",
+      "lastPulledAt": "2026-10-18T22:29:52.472Z"
     },
     "119": {
       "id": 119,
