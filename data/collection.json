@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 181,
-  "updatedAt": "2026-10-18T14:52:50.567Z",
+  "totalPulls": 182,
+  "updatedAt": "2026-10-18T17:53:59.269Z",
   "lastPull": {
-    "id": 144,
-    "name": "articuno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "ice",
-      "flying"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 580,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-10-18T14:52:50.567Z"
+    "pulledAt": "2026-10-18T17:53:59.269Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T17:53:59.269Z"
+    },
     {
       "id": 144,
       "name": "articuno",
@@ -117,18 +129,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-17T14:08:12.507Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T10:56:09.023Z"
     }
   ],
   "pokemon": {
@@ -2319,6 +2319,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T16:18:08.819Z",
       "lastPulledAt": "2026-10-01T16:18:08.819Z"
+    },
+    "880": {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T17:53:59.269Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T17:53:59.269Z",
+      "lastPulledAt": "2026-10-18T17:53:59.269Z"
     },
     "885": {
       "id": 885,
