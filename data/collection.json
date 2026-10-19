@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-18T22:29:52.472Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-19T00:26:17.731Z",
   "lastPull": {
-    "id": 118,
-    "name": "goldeen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "id": 883,
+    "name": "arctovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
     "types": [
-      "water"
+      "water",
+      "ice"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-18T22:29:52.472Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T00:26:17.731Z"
   },
   "pulls": [
+    {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T00:26:17.731Z"
+    },
     {
       "id": 118,
       "name": "goldeen",
@@ -116,17 +129,6 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-17T21:38:24.653Z"
-    },
-    {
-      "id": 507,
-      "name": "herdier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-17T19:24:45.325Z"
     }
   ],
   "pokemon": {
@@ -2363,6 +2365,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T17:53:59.269Z",
       "lastPulledAt": "2026-10-18T17:53:59.269Z"
+    },
+    "883": {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T00:26:17.731Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T00:26:17.731Z",
+      "lastPulledAt": "2026-10-19T00:26:17.731Z"
     },
     "885": {
       "id": 885,
