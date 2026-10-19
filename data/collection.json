@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-19T00:26:17.731Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-19T05:09:47.189Z",
   "lastPull": {
-    "id": 883,
-    "name": "arctovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "id": 985,
+    "name": "scream-tail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
     "types": [
-      "water",
-      "ice"
+      "fairy",
+      "psychic"
     ],
-    "totalStats": 505,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-19T00:26:17.731Z"
+    "pulledAt": "2026-10-19T05:09:47.189Z"
   },
   "pulls": [
+    {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T05:09:47.189Z"
+    },
     {
       "id": 883,
       "name": "arctovish",
@@ -118,17 +130,6 @@
       "totalStats": 660,
       "grade": "SSR",
       "pulledAt": "2026-10-17T23:26:29.709Z"
-    },
-    {
-      "id": 316,
-      "name": "gulpin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 302,
-      "grade": "N",
-      "pulledAt": "2026-10-17T21:38:24.653Z"
     }
   ],
   "pokemon": {
@@ -2756,6 +2757,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T07:31:28.379Z",
       "lastPulledAt": "2026-10-08T07:31:28.379Z"
+    },
+    "985": {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T05:09:47.189Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T05:09:47.189Z",
+      "lastPulledAt": "2026-10-19T05:09:47.189Z"
     },
     "990": {
       "id": 990,
