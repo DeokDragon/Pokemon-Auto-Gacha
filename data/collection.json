@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-19T17:12:40.153Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-19T21:35:42.046Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 290,
+    "name": "nincada",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
     "types": [
-      "normal"
+      "bug",
+      "ground"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-10-19T17:12:40.153Z"
+    "totalStats": 266,
+    "grade": "N",
+    "pulledAt": "2026-10-19T21:35:42.046Z"
   },
   "pulls": [
+    {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-10-19T21:35:42.046Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -118,18 +131,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-18T11:41:30.613Z"
-    },
-    {
-      "id": 448,
-      "name": "lucario",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
-      "types": [
-        "fighting",
-        "steel"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T06:30:25.572Z"
     }
   ],
   "pokemon": {
@@ -923,6 +924,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T10:47:42.619Z",
       "lastPulledAt": "2026-10-19T10:47:42.619Z"
+    },
+    "290": {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-10-19T21:35:42.046Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T21:35:42.046Z",
+      "lastPulledAt": "2026-10-19T21:35:42.046Z"
     },
     "292": {
       "id": 292,
