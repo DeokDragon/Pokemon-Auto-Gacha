@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T10:47:42.619Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T17:12:40.153Z",
   "lastPull": {
-    "id": 286,
-    "name": "breloom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "grass",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 460,
+    "totalStats": 482,
     "grade": "R",
-    "pulledAt": "2026-10-19T10:47:42.619Z"
+    "pulledAt": "2026-10-19T17:12:40.153Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-19T17:12:40.153Z"
+    },
     {
       "id": 286,
       "name": "breloom",
@@ -120,17 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-18T06:30:25.572Z"
-    },
-    {
-      "id": 895,
-      "name": "regidrago",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T01:26:50.443Z"
     }
   ],
   "pokemon": {
@@ -1313,6 +1312,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:52:25.647Z",
       "lastPulledAt": "2026-09-23T00:52:25.647Z"
+    },
+    "424": {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-19T17:12:40.153Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T17:12:40.153Z",
+      "lastPulledAt": "2026-10-19T17:12:40.153Z"
     },
     "430": {
       "id": 430,
