@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T19:22:45.537Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T22:32:26.010Z",
   "lastPull": {
-    "id": 105,
-    "name": "marowak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "ground"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-20T19:22:45.537Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T22:32:26.010Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T22:32:26.010Z"
+    },
     {
       "id": 105,
       "name": "marowak",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-19T05:09:47.189Z"
-    },
-    {
-      "id": 883,
-      "name": "arctovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T00:26:17.731Z"
     }
   ],
   "pokemon": {
@@ -1276,10 +1277,10 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-04T17:06:26.458Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T17:06:26.458Z",
-      "lastPulledAt": "2026-10-04T17:06:26.458Z"
+      "lastPulledAt": "2026-10-20T22:32:26.010Z"
     },
     "397": {
       "id": 397,
