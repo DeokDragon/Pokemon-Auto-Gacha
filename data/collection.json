@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T15:12:48.505Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T19:22:45.537Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 105,
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "types": [
-      "water",
-      "bug"
+      "ground"
     ],
-    "totalStats": 269,
-    "grade": "N",
-    "pulledAt": "2026-10-20T15:12:48.505Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-20T19:22:45.537Z"
   },
   "pulls": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-20T19:22:45.537Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -119,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-19T00:26:17.731Z"
-    },
-    {
-      "id": 118,
-      "name": "goldeen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-18T22:29:52.472Z"
     }
   ],
   "pokemon": {
@@ -375,10 +374,10 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-15T19:15:02.352Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:15:02.352Z",
-      "lastPulledAt": "2026-10-15T19:15:02.352Z"
+      "lastPulledAt": "2026-10-20T19:22:45.537Z"
     },
     "118": {
       "id": 118,
