@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-20T10:18:42.322Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-20T15:12:48.505Z",
   "lastPull": {
-    "id": 480,
-    "name": "uxie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "psychic"
+      "water",
+      "bug"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T10:18:42.322Z"
+    "totalStats": 269,
+    "grade": "N",
+    "pulledAt": "2026-10-20T15:12:48.505Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-20T15:12:48.505Z"
+    },
     {
       "id": 480,
       "name": "uxie",
@@ -117,17 +130,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-18T22:29:52.472Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T20:19:54.972Z"
     }
   ],
   "pokemon": {
@@ -2010,6 +2012,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T19:21:44.497Z",
       "lastPulledAt": "2026-10-10T19:21:44.497Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-20T15:12:48.505Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T15:12:48.505Z",
+      "lastPulledAt": "2026-10-20T15:12:48.505Z"
     },
     "753": {
       "id": 753,
