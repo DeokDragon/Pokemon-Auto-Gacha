@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T22:32:26.010Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-21T00:55:18.799Z",
   "lastPull": {
-    "id": 392,
-    "name": "infernape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "id": 722,
+    "name": "rowlet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
     "types": [
-      "fire",
-      "fighting"
+      "grass",
+      "flying"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T22:32:26.010Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-21T00:55:18.799Z"
   },
   "pulls": [
+    {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-21T00:55:18.799Z"
+    },
     {
       "id": 392,
       "name": "infernape",
@@ -118,18 +130,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-19T10:47:42.619Z"
-    },
-    {
-      "id": 985,
-      "name": "scream-tail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-      "types": [
-        "fairy",
-        "psychic"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T05:09:47.189Z"
     }
   ],
   "pokemon": {
@@ -1981,6 +1981,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:58:35.196Z",
       "lastPulledAt": "2026-10-11T22:58:35.196Z"
+    },
+    "722": {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-21T00:55:18.799Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T00:55:18.799Z",
+      "lastPulledAt": "2026-10-21T00:55:18.799Z"
     },
     "729": {
       "id": 729,
