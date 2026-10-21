@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-21T00:55:18.799Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-21T05:49:17.215Z",
   "lastPull": {
-    "id": 722,
-    "name": "rowlet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "id": 4,
+    "name": "charmander",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
     "types": [
-      "grass",
-      "flying"
+      "fire"
     ],
-    "totalStats": 320,
+    "totalStats": 309,
     "grade": "N",
-    "pulledAt": "2026-10-21T00:55:18.799Z"
+    "pulledAt": "2026-10-21T05:49:17.215Z"
   },
   "pulls": [
+    {
+      "id": 4,
+      "name": "charmander",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-21T05:49:17.215Z"
+    },
     {
       "id": 722,
       "name": "rowlet",
@@ -118,21 +128,24 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-10-19T17:12:40.153Z"
-    },
-    {
-      "id": 286,
-      "name": "breloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-19T10:47:42.619Z"
     }
   ],
   "pokemon": {
+    "4": {
+      "id": 4,
+      "name": "charmander",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-21T05:49:17.215Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T05:49:17.215Z",
+      "lastPulledAt": "2026-10-21T05:49:17.215Z"
+    },
     "5": {
       "id": 5,
       "name": "charmeleon",
