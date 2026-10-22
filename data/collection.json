@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-21T22:46:24.571Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-22T00:59:23.764Z",
   "lastPull": {
-    "id": 420,
-    "name": "cherubi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "id": 838,
+    "name": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
     "types": [
-      "grass"
+      "rock",
+      "fire"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-21T22:46:24.571Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-22T00:59:23.764Z"
   },
   "pulls": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:59:23.764Z"
+    },
     {
       "id": 420,
       "name": "cherubi",
@@ -117,17 +130,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-10-20T15:12:48.505Z"
-    },
-    {
-      "id": 480,
-      "name": "uxie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T10:18:42.322Z"
     }
   ],
   "pokemon": {
@@ -2381,6 +2383,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T02:36:09.663Z",
       "lastPulledAt": "2026-10-10T02:36:09.663Z"
+    },
+    "838": {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:59:23.764Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T00:59:23.764Z",
+      "lastPulledAt": "2026-10-22T00:59:23.764Z"
     },
     "840": {
       "id": 840,
