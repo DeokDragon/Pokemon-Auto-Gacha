@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-22T11:44:48.022Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-22T16:05:48.590Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 963,
+    "name": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
     "types": [
-      "normal",
-      "fighting"
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T11:44:48.022Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-22T16:05:48.590Z"
   },
   "pulls": [
+    {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-22T16:05:48.590Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -119,18 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-21T00:55:18.799Z"
-    },
-    {
-      "id": 392,
-      "name": "infernape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T22:32:26.010Z"
     }
   ],
   "pokemon": {
@@ -2865,6 +2863,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T19:39:06.601Z",
       "lastPulledAt": "2026-10-21T19:39:06.601Z"
+    },
+    "963": {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-22T16:05:48.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T16:05:48.590Z",
+      "lastPulledAt": "2026-10-22T16:05:48.590Z"
     },
     "965": {
       "id": 965,
