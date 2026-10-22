@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-22T06:00:26.089Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-22T11:44:48.022Z",
   "lastPull": {
-    "id": 929,
-    "name": "dolliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "grass",
-      "normal"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 354,
-    "grade": "N",
-    "pulledAt": "2026-10-22T06:00:26.089Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T11:44:48.022Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T11:44:48.022Z"
+    },
     {
       "id": 929,
       "name": "dolliv",
@@ -119,17 +131,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-20T22:32:26.010Z"
-    },
-    {
-      "id": 105,
-      "name": "marowak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-20T19:22:45.537Z"
     }
   ],
   "pokemon": {
@@ -2117,10 +2118,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-26T01:40:52.190Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-09-26T01:40:52.190Z",
-      "lastPulledAt": "2026-10-17T10:56:09.023Z"
+      "lastPulledAt": "2026-10-22T11:44:48.022Z"
     },
     "764": {
       "id": 764,
