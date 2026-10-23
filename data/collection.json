@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-22T23:20:12.255Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-23T01:46:37.931Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 391,
+    "name": "monferno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
     "types": [
-      "bug",
-      "fire"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T23:20:12.255Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-23T01:46:37.931Z"
   },
   "pulls": [
+    {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:46:37.931Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -118,18 +130,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-21T15:39:40.404Z"
-    },
-    {
-      "id": 714,
-      "name": "noibat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-21T10:43:38.853Z"
     }
   ],
   "pokemon": {
@@ -1295,6 +1295,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:15:10.250Z",
       "lastPulledAt": "2026-09-16T17:15:10.250Z"
+    },
+    "391": {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:46:37.931Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T01:46:37.931Z",
+      "lastPulledAt": "2026-10-23T01:46:37.931Z"
     },
     "392": {
       "id": 392,
