@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-24T07:01:01.106Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-24T11:58:22.508Z",
   "lastPull": {
-    "id": 900,
-    "name": "kleavor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+    "id": 536,
+    "name": "palpitoad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
     "types": [
-      "bug",
-      "rock"
+      "water",
+      "ground"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T07:01:01.106Z"
+    "totalStats": 384,
+    "grade": "N",
+    "pulledAt": "2026-10-24T11:58:22.508Z"
   },
   "pulls": [
+    {
+      "id": 536,
+      "name": "palpitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-10-24T11:58:22.508Z"
+    },
     {
       "id": 900,
       "name": "kleavor",
@@ -117,17 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-22T23:20:12.255Z"
-    },
-    {
-      "id": 125,
-      "name": "electabuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-22T20:04:29.569Z"
     }
   ],
   "pokemon": {
@@ -1676,6 +1677,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:38:02.012Z",
       "lastPulledAt": "2026-10-17T01:38:02.012Z"
+    },
+    "536": {
+      "id": 536,
+      "name": "palpitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-10-24T11:58:22.508Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T11:58:22.508Z",
+      "lastPulledAt": "2026-10-24T11:58:22.508Z"
     },
     "540": {
       "id": 540,
