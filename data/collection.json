@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T23:22:10.257Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-24T01:52:15.950Z",
   "lastPull": {
-    "id": 884,
-    "name": "duraludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "steel",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T23:22:10.257Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-24T01:52:15.950Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-24T01:52:15.950Z"
+    },
     {
       "id": 884,
       "name": "duraludon",
@@ -116,18 +126,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-22T16:05:48.590Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T11:44:48.022Z"
     }
   ],
   "pokemon": {
@@ -294,10 +292,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-13T01:26:21.301Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T01:26:21.301Z",
-      "lastPulledAt": "2026-10-13T01:26:21.301Z"
+      "lastPulledAt": "2026-10-24T01:52:15.950Z"
     },
     "53": {
       "id": 53,
