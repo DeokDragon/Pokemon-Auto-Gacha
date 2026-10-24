@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T21:05:51.529Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T23:09:07.129Z",
   "lastPull": {
-    "id": 585,
-    "name": "deerling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "id": 126,
+    "name": "magmar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
     "types": [
-      "normal",
-      "grass"
+      "fire"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-24T21:05:51.529Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-24T23:09:07.129Z"
   },
   "pulls": [
+    {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-24T23:09:07.129Z"
+    },
     {
       "id": 585,
       "name": "deerling",
@@ -118,17 +128,6 @@
       "totalStats": 299,
       "grade": "N",
       "pulledAt": "2026-10-23T17:03:02.197Z"
-    },
-    {
-      "id": 68,
-      "name": "machamp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T12:06:07.465Z"
     }
   ],
   "pokemon": {
@@ -499,6 +498,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T20:04:29.569Z",
       "lastPulledAt": "2026-10-22T20:04:29.569Z"
+    },
+    "126": {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-24T23:09:07.129Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T23:09:07.129Z",
+      "lastPulledAt": "2026-10-24T23:09:07.129Z"
     },
     "132": {
       "id": 132,
