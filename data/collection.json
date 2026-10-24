@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-24T01:52:15.950Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-24T07:01:01.106Z",
   "lastPull": {
-    "id": 52,
-    "name": "meowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "id": 900,
+    "name": "kleavor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
     "types": [
-      "normal"
+      "bug",
+      "rock"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-24T01:52:15.950Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T07:01:01.106Z"
   },
   "pulls": [
+    {
+      "id": 900,
+      "name": "kleavor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T07:01:01.106Z"
+    },
     {
       "id": 52,
       "name": "meowth",
@@ -115,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-22T20:04:29.569Z"
-    },
-    {
-      "id": 963,
-      "name": "finizen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-22T16:05:48.590Z"
     }
   ],
   "pokemon": {
@@ -2749,6 +2751,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:58:04.026Z",
       "lastPulledAt": "2026-09-25T19:58:04.026Z"
+    },
+    "900": {
+      "id": 900,
+      "name": "kleavor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T07:01:01.106Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T07:01:01.106Z",
+      "lastPulledAt": "2026-10-24T07:01:01.106Z"
     },
     "908": {
       "id": 908,
