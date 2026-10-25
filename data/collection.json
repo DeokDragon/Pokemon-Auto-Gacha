@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-25T11:46:26.849Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-25T15:04:10.013Z",
   "lastPull": {
-    "id": 881,
-    "name": "arctozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "id": 577,
+    "name": "solosis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
     "types": [
-      "electric",
-      "ice"
+      "psychic"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T11:46:26.849Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-25T15:04:10.013Z"
   },
   "pulls": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-25T15:04:10.013Z"
+    },
     {
       "id": 881,
       "name": "arctozolt",
@@ -118,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-24T07:01:01.106Z"
-    },
-    {
-      "id": 52,
-      "name": "meowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-24T01:52:15.950Z"
     }
   ],
   "pokemon": {
@@ -1849,6 +1848,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T09:06:34.631Z",
       "lastPulledAt": "2026-10-07T09:06:34.631Z"
+    },
+    "577": {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-25T15:04:10.013Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T15:04:10.013Z",
+      "lastPulledAt": "2026-10-25T15:04:10.013Z"
     },
     "585": {
       "id": 585,
