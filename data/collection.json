@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T23:09:07.129Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-25T01:10:38.258Z",
   "lastPull": {
-    "id": 126,
-    "name": "magmar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "id": 108,
+    "name": "lickitung",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-24T23:09:07.129Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-10-25T01:10:38.258Z"
   },
   "pulls": [
+    {
+      "id": 108,
+      "name": "lickitung",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-25T01:10:38.258Z"
+    },
     {
       "id": 126,
       "name": "magmar",
@@ -117,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-23T20:25:15.911Z"
-    },
-    {
-      "id": 37,
-      "name": "vulpix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 299,
-      "grade": "N",
-      "pulledAt": "2026-10-23T17:03:02.197Z"
     }
   ],
   "pokemon": {
@@ -437,6 +437,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:15:02.352Z",
       "lastPulledAt": "2026-10-20T19:22:45.537Z"
+    },
+    "108": {
+      "id": 108,
+      "name": "lickitung",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-25T01:10:38.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T01:10:38.258Z",
+      "lastPulledAt": "2026-10-25T01:10:38.258Z"
     },
     "118": {
       "id": 118,
