@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-25T06:16:04.322Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-25T11:46:26.849Z",
   "lastPull": {
-    "id": 172,
-    "name": "pichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "id": 881,
+    "name": "arctozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
     "types": [
-      "electric"
+      "electric",
+      "ice"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-10-25T06:16:04.322Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T11:46:26.849Z"
   },
   "pulls": [
+    {
+      "id": 881,
+      "name": "arctozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T11:46:26.849Z"
+    },
     {
       "id": 172,
       "name": "pichu",
@@ -116,18 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-24T01:52:15.950Z"
-    },
-    {
-      "id": 884,
-      "name": "duraludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T23:22:10.257Z"
     }
   ],
   "pokemon": {
@@ -2704,6 +2705,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T17:53:59.269Z",
       "lastPulledAt": "2026-10-18T17:53:59.269Z"
+    },
+    "881": {
+      "id": 881,
+      "name": "arctozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T11:46:26.849Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T11:46:26.849Z",
+      "lastPulledAt": "2026-10-25T11:46:26.849Z"
     },
     "883": {
       "id": 883,
