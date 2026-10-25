@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-10-25T21:07:12.950Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-10-25T23:15:09.252Z",
   "lastPull": {
-    "id": 662,
-    "name": "fletchinder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "id": 841,
+    "name": "flapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
     "types": [
-      "fire",
-      "flying"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 382,
-    "grade": "N",
-    "pulledAt": "2026-10-25T21:07:12.950Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-25T23:15:09.252Z"
   },
   "pulls": [
+    {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:15:09.252Z"
+    },
     {
       "id": 662,
       "name": "fletchinder",
@@ -117,17 +129,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-24T18:25:17.679Z"
-    },
-    {
-      "id": 156,
-      "name": "quilava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-24T15:49:32.385Z"
     }
   ],
   "pokemon": {
@@ -2628,6 +2629,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T14:35:20.780Z",
       "lastPulledAt": "2026-09-28T14:35:20.780Z"
+    },
+    "841": {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:15:09.252Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:15:09.252Z",
+      "lastPulledAt": "2026-10-25T23:15:09.252Z"
     },
     "853": {
       "id": 853,
