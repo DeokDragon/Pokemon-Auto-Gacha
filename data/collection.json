@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-26T13:32:51.671Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-26T19:33:15.358Z",
   "lastPull": {
-    "id": 647,
-    "name": "keldeo-ordinary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "water",
-      "fighting"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T13:32:51.671Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-26T19:33:15.358Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-26T19:33:15.358Z"
+    },
     {
       "id": 647,
       "name": "keldeo-ordinary",
@@ -119,17 +129,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-25T06:16:04.322Z"
-    },
-    {
-      "id": 108,
-      "name": "lickitung",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-25T01:10:38.258Z"
     }
   ],
   "pokemon": {
@@ -3191,6 +3190,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T19:39:06.601Z",
       "lastPulledAt": "2026-10-21T19:39:06.601Z"
+    },
+    "961": {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-26T19:33:15.358Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T19:33:15.358Z",
+      "lastPulledAt": "2026-10-26T19:33:15.358Z"
     },
     "963": {
       "id": 963,
