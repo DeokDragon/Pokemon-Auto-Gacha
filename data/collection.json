@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-26T01:19:57.393Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-26T06:33:43.017Z",
   "lastPull": {
-    "id": 952,
-    "name": "scovillain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "id": 415,
+    "name": "combee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
     "types": [
-      "grass",
-      "fire"
+      "bug",
+      "flying"
     ],
-    "totalStats": 486,
-    "grade": "R",
-    "pulledAt": "2026-10-26T01:19:57.393Z"
+    "totalStats": 244,
+    "grade": "N",
+    "pulledAt": "2026-10-26T06:33:43.017Z"
   },
   "pulls": [
+    {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-10-26T06:33:43.017Z"
+    },
     {
       "id": 952,
       "name": "scovillain",
@@ -117,18 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-24T23:09:07.129Z"
-    },
-    {
-      "id": 585,
-      "name": "deerling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
-      "types": [
-        "normal",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-24T21:05:51.529Z"
     }
   ],
   "pokemon": {
@@ -1478,6 +1478,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:52:25.647Z",
       "lastPulledAt": "2026-09-23T00:52:25.647Z"
+    },
+    "415": {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-10-26T06:33:43.017Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T06:33:43.017Z",
+      "lastPulledAt": "2026-10-26T06:33:43.017Z"
     },
     "420": {
       "id": 420,
