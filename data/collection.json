@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-25T23:15:09.252Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-26T01:19:57.393Z",
   "lastPull": {
-    "id": 841,
-    "name": "flapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "id": 952,
+    "name": "scovillain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
     "types": [
       "grass",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 485,
+    "totalStats": 486,
     "grade": "R",
-    "pulledAt": "2026-10-25T23:15:09.252Z"
+    "pulledAt": "2026-10-26T01:19:57.393Z"
   },
   "pulls": [
+    {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:19:57.393Z"
+    },
     {
       "id": 841,
       "name": "flapple",
@@ -117,18 +129,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-24T21:05:51.529Z"
-    },
-    {
-      "id": 622,
-      "name": "golett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-10-24T18:25:17.679Z"
     }
   ],
   "pokemon": {
@@ -3111,6 +3111,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T15:25:06.877Z",
       "lastPulledAt": "2026-10-14T15:25:06.877Z"
+    },
+    "952": {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:19:57.393Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:19:57.393Z",
+      "lastPulledAt": "2026-10-26T01:19:57.393Z"
     },
     "954": {
       "id": 954,
