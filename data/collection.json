@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-27T19:33:46.129Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-27T23:09:28.311Z",
   "lastPull": {
-    "id": 217,
-    "name": "ursaring",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "id": 637,
+    "name": "volcarona",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
     "types": [
-      "normal"
+      "bug",
+      "fire"
     ],
-    "totalStats": 500,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-10-27T19:33:46.129Z"
+    "pulledAt": "2026-10-27T23:09:28.311Z"
   },
   "pulls": [
+    {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T23:09:28.311Z"
+    },
     {
       "id": 217,
       "name": "ursaring",
@@ -116,18 +129,6 @@
       "totalStats": 486,
       "grade": "R",
       "pulledAt": "2026-10-26T01:19:57.393Z"
-    },
-    {
-      "id": 841,
-      "name": "flapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-25T23:15:09.252Z"
     }
   ],
   "pokemon": {
@@ -2094,10 +2095,10 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-11T01:40:48.197Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:40:48.197Z",
-      "lastPulledAt": "2026-10-22T23:20:12.255Z"
+      "lastPulledAt": "2026-10-27T23:09:28.311Z"
     },
     "647": {
       "id": 647,
