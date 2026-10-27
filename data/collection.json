@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-26T23:20:03.128Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-27T02:13:09.604Z",
   "lastPull": {
-    "id": 110,
-    "name": "weezing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "id": 577,
+    "name": "solosis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
     "types": [
-      "poison"
+      "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-26T23:20:03.128Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-27T02:13:09.604Z"
   },
   "pulls": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-27T02:13:09.604Z"
+    },
     {
       "id": 110,
       "name": "weezing",
@@ -117,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-25T15:04:10.013Z"
-    },
-    {
-      "id": 881,
-      "name": "arctozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
-      "types": [
-        "electric",
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T11:46:26.849Z"
     }
   ],
   "pokemon": {
@@ -1891,10 +1890,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-25T15:04:10.013Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T15:04:10.013Z",
-      "lastPulledAt": "2026-10-25T15:04:10.013Z"
+      "lastPulledAt": "2026-10-27T02:13:09.604Z"
     },
     "585": {
       "id": 585,
