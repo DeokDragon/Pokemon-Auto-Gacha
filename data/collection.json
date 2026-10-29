@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 243,
-  "updatedAt": "2026-10-29T06:16:28.737Z",
+  "totalPulls": 244,
+  "updatedAt": "2026-10-29T13:20:46.010Z",
   "lastPull": {
-    "id": 147,
-    "name": "dratini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "id": 957,
+    "name": "tinkatink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
     "types": [
-      "dragon"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 300,
+    "totalStats": 297,
     "grade": "N",
-    "pulledAt": "2026-10-29T06:16:28.737Z"
+    "pulledAt": "2026-10-29T13:20:46.010Z"
   },
   "pulls": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-10-29T13:20:46.010Z"
+    },
     {
       "id": 147,
       "name": "dratini",
@@ -118,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-27T14:24:41.752Z"
-    },
-    {
-      "id": 517,
-      "name": "munna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-10-27T08:01:14.547Z"
     }
   ],
   "pokemon": {
@@ -3298,6 +3300,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T19:39:06.601Z",
       "lastPulledAt": "2026-10-21T19:39:06.601Z"
+    },
+    "957": {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-10-29T13:20:46.010Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T13:20:46.010Z",
+      "lastPulledAt": "2026-10-29T13:20:46.010Z"
     },
     "961": {
       "id": 961,
