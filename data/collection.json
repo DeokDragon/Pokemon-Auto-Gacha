@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-30T15:53:02.646Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-30T20:34:04.571Z",
   "lastPull": {
-    "id": 410,
-    "name": "shieldon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "id": 89,
+    "name": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "types": [
-      "rock",
-      "steel"
+      "poison"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-10-30T15:53:02.646Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T20:34:04.571Z"
   },
   "pulls": [
+    {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T20:34:04.571Z"
+    },
     {
       "id": 410,
       "name": "shieldon",
@@ -118,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-28T20:33:10.144Z"
-    },
-    {
-      "id": 248,
-      "name": "tyranitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
-      "types": [
-        "rock",
-        "dark"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-28T15:31:34.727Z"
     }
   ],
   "pokemon": {
@@ -424,6 +422,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T10:52:58.588Z",
       "lastPulledAt": "2026-10-16T14:20:50.999Z"
+    },
+    "89": {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T20:34:04.571Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T20:34:04.571Z",
+      "lastPulledAt": "2026-10-30T20:34:04.571Z"
     },
     "105": {
       "id": 105,
