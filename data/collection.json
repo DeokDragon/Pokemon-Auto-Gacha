@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-30T02:42:16.471Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-30T09:04:30.790Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 909,
+    "name": "fuecoco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 360,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-30T02:42:16.471Z"
+    "pulledAt": "2026-10-30T09:04:30.790Z"
   },
   "pulls": [
+    {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-30T09:04:30.790Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -117,18 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-28T08:43:50.730Z"
-    },
-    {
-      "id": 629,
-      "name": "vullaby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-28T02:16:38.938Z"
     }
   ],
   "pokemon": {
@@ -3126,6 +3125,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:34:39.627Z",
       "lastPulledAt": "2026-09-30T01:34:39.627Z"
+    },
+    "909": {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-30T09:04:30.790Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T09:04:30.790Z",
+      "lastPulledAt": "2026-10-30T09:04:30.790Z"
     },
     "914": {
       "id": 914,
