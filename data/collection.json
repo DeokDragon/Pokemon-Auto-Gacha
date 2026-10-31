@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-31T20:05:13.714Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-31T23:20:33.593Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 476,
+    "name": "probopass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
     "types": [
-      "grass",
-      "flying"
+      "rock",
+      "steel"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-31T20:05:13.714Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-31T23:20:33.593Z"
   },
   "pulls": [
+    {
+      "id": 476,
+      "name": "probopass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T23:20:33.593Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -118,17 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-30T02:42:16.471Z"
-    },
-    {
-      "id": 657,
-      "name": "frogadier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-29T23:17:21.339Z"
     }
   ],
   "pokemon": {
@@ -1787,6 +1788,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:16:17.037Z",
       "lastPulledAt": "2026-10-02T18:16:17.037Z"
+    },
+    "476": {
+      "id": 476,
+      "name": "probopass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T23:20:33.593Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T23:20:33.593Z",
+      "lastPulledAt": "2026-10-31T23:20:33.593Z"
     },
     "478": {
       "id": 478,
