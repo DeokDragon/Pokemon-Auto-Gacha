@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-11-01T20:43:17.816Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-11-01T23:57:11.155Z",
   "lastPull": {
-    "id": 141,
-    "name": "kabutops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "id": 917,
+    "name": "tarountula",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
     "types": [
-      "rock",
-      "water"
+      "bug"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-01T20:43:17.816Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-11-01T23:57:11.155Z"
   },
   "pulls": [
+    {
+      "id": 917,
+      "name": "tarountula",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-11-01T23:57:11.155Z"
+    },
     {
       "id": 141,
       "name": "kabutops",
@@ -121,18 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-31T05:32:07.471Z"
-    },
-    {
-      "id": 164,
-      "name": "noctowl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-31T00:02:53.776Z"
     }
   ],
   "pokemon": {
@@ -3282,10 +3280,10 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-16T23:46:45.836Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T23:46:45.836Z",
-      "lastPulledAt": "2026-10-16T23:46:45.836Z"
+      "lastPulledAt": "2026-11-01T23:57:11.155Z"
     },
     "921": {
       "id": 921,
