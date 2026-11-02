@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-11-02T05:47:14.650Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-11-02T13:53:40.757Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 375,
+    "name": "metang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
     "types": [
-      "bug"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-02T05:47:14.650Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-02T13:53:40.757Z"
   },
   "pulls": [
+    {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-02T13:53:40.757Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -119,18 +132,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-10-31T16:10:30.346Z"
-    },
-    {
-      "id": 823,
-      "name": "corviknight",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-      "types": [
-        "flying",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-31T11:13:16.939Z"
     }
   ],
   "pokemon": {
@@ -1445,6 +1446,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T20:59:17.443Z",
       "lastPulledAt": "2026-09-18T20:59:17.443Z"
+    },
+    "375": {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-02T13:53:40.757Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T13:53:40.757Z",
+      "lastPulledAt": "2026-11-02T13:53:40.757Z"
     },
     "376": {
       "id": 376,
