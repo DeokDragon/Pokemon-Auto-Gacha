@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-11-01T23:57:11.155Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-11-02T05:47:14.650Z",
   "lastPull": {
-    "id": 917,
-    "name": "tarountula",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
       "bug"
     ],
-    "totalStats": 210,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-01T23:57:11.155Z"
+    "pulledAt": "2026-11-02T05:47:14.650Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-02T05:47:14.650Z"
+    },
     {
       "id": 917,
       "name": "tarountula",
@@ -120,17 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-31T11:13:16.939Z"
-    },
-    {
-      "id": 67,
-      "name": "machoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-31T05:32:07.471Z"
     }
   ],
   "pokemon": {
@@ -2174,10 +2174,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-23T05:39:52.258Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T05:39:52.258Z",
-      "lastPulledAt": "2026-09-23T05:39:52.258Z"
+      "lastPulledAt": "2026-11-02T05:47:14.650Z"
     },
     "619": {
       "id": 619,
