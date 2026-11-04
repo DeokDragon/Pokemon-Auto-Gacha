@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-04T11:25:44.641Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-04T18:46:18.828Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 477,
+    "name": "dusknoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
     "types": [
-      "dragon"
+      "ghost"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-11-04T11:25:44.641Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T18:46:18.828Z"
   },
   "pulls": [
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T18:46:18.828Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -117,17 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-02T05:47:14.650Z"
-    },
-    {
-      "id": 917,
-      "name": "tarountula",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-11-01T23:57:11.155Z"
     }
   ],
   "pokemon": {
@@ -1896,6 +1896,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T23:20:33.593Z",
       "lastPulledAt": "2026-10-31T23:20:33.593Z"
+    },
+    "477": {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T18:46:18.828Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T18:46:18.828Z",
+      "lastPulledAt": "2026-11-04T18:46:18.828Z"
     },
     "478": {
       "id": 478,
