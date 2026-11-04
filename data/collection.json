@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-04T03:22:14.219Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-04T11:25:44.641Z",
   "lastPull": {
-    "id": 166,
-    "name": "ledian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "id": 705,
+    "name": "sliggoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
     "types": [
-      "bug",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-11-04T03:22:14.219Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-11-04T11:25:44.641Z"
   },
   "pulls": [
+    {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-04T11:25:44.641Z"
+    },
     {
       "id": 166,
       "name": "ledian",
@@ -118,18 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-01T23:57:11.155Z"
-    },
-    {
-      "id": 141,
-      "name": "kabutops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-01T20:43:17.816Z"
     }
   ],
   "pokemon": {
@@ -2522,6 +2520,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:14:44.370Z",
       "lastPulledAt": "2026-09-29T06:14:44.370Z"
+    },
+    "705": {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-04T11:25:44.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T11:25:44.641Z",
+      "lastPulledAt": "2026-11-04T11:25:44.641Z"
     },
     "711": {
       "id": 711,
