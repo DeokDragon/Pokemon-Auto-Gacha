@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-04T18:46:18.828Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-04T23:57:44.733Z",
   "lastPull": {
-    "id": 477,
-    "name": "dusknoir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "id": 359,
+    "name": "absol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
     "types": [
-      "ghost"
+      "dark"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T18:46:18.828Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-11-04T23:57:44.733Z"
   },
   "pulls": [
+    {
+      "id": 359,
+      "name": "absol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-11-04T23:57:44.733Z"
+    },
     {
       "id": 477,
       "name": "dusknoir",
@@ -117,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-02T13:53:40.757Z"
-    },
-    {
-      "id": 616,
-      "name": "shelmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-02T05:47:14.650Z"
     }
   ],
   "pokemon": {
@@ -1455,10 +1455,10 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-04T06:26:26.091Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T06:26:26.091Z",
-      "lastPulledAt": "2026-10-04T06:26:26.091Z"
+      "lastPulledAt": "2026-11-04T23:57:44.733Z"
     },
     "360": {
       "id": 360,
