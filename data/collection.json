@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-05T14:54:30.851Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-05T21:23:26.750Z",
   "lastPull": {
-    "id": 678,
-    "name": "meowstic-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "psychic"
+      "rock"
     ],
-    "totalStats": 466,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-11-05T14:54:30.851Z"
+    "pulledAt": "2026-11-05T21:23:26.750Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-05T21:23:26.750Z"
+    },
     {
       "id": 678,
       "name": "meowstic-male",
@@ -116,17 +127,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-11-03T11:24:19.381Z"
-    },
-    {
-      "id": 393,
-      "name": "piplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-11-03T03:43:07.437Z"
     }
   ],
   "pokemon": {
@@ -3591,6 +3591,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T15:25:06.877Z",
       "lastPulledAt": "2026-10-14T15:25:06.877Z"
+    },
+    "950": {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-05T21:23:26.750Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T21:23:26.750Z",
+      "lastPulledAt": "2026-11-05T21:23:26.750Z"
     },
     "952": {
       "id": 952,
