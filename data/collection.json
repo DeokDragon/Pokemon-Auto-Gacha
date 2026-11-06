@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-06T01:43:56.196Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-06T08:33:31.961Z",
   "lastPull": {
-    "id": 117,
-    "name": "seadra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "id": 609,
+    "name": "chandelure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
     "types": [
-      "water"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-06T01:43:56.196Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T08:33:31.961Z"
   },
   "pulls": [
+    {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T08:33:31.961Z"
+    },
     {
       "id": 117,
       "name": "seadra",
@@ -115,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-03T23:40:31.440Z"
-    },
-    {
-      "id": 328,
-      "name": "trapinch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-03T18:36:21.678Z"
     }
   ],
   "pokemon": {
@@ -2278,10 +2280,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-29T22:36:58.866Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T22:36:58.866Z",
-      "lastPulledAt": "2026-09-30T07:26:36.857Z"
+      "lastPulledAt": "2026-11-06T08:33:31.961Z"
     },
     "616": {
       "id": 616,
