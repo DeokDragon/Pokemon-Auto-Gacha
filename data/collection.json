@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-05T21:23:26.750Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-06T01:43:56.196Z",
   "lastPull": {
-    "id": 950,
-    "name": "klawf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "id": 117,
+    "name": "seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "types": [
-      "rock"
+      "water"
     ],
-    "totalStats": 450,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-11-05T21:23:26.750Z"
+    "pulledAt": "2026-11-06T01:43:56.196Z"
   },
   "pulls": [
+    {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T01:43:56.196Z"
+    },
     {
       "id": 950,
       "name": "klawf",
@@ -115,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-03T18:36:21.678Z"
-    },
-    {
-      "id": 1014,
-      "name": "okidogi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T11:24:19.381Z"
     }
   ],
   "pokemon": {
@@ -512,6 +511,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T23:40:31.440Z",
       "lastPulledAt": "2026-11-03T23:40:31.440Z"
+    },
+    "117": {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T01:43:56.196Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T01:43:56.196Z",
+      "lastPulledAt": "2026-11-06T01:43:56.196Z"
     },
     "118": {
       "id": 118,
