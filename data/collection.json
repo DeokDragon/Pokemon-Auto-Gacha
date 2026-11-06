@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-06T08:33:31.961Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-06T16:15:58.701Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 295,
+    "name": "exploud",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
     "types": [
-      "ghost",
-      "fire"
+      "normal"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-11-06T08:33:31.961Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-06T16:15:58.701Z"
   },
   "pulls": [
+    {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T16:15:58.701Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -116,18 +126,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-04T03:22:14.219Z"
-    },
-    {
-      "id": 112,
-      "name": "rhydon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-03T23:40:31.440Z"
     }
   ],
   "pokemon": {
@@ -1258,6 +1256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T19:37:33.572Z",
       "lastPulledAt": "2026-10-14T19:37:33.572Z"
+    },
+    "295": {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T16:15:58.701Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T16:15:58.701Z",
+      "lastPulledAt": "2026-11-06T16:15:58.701Z"
     },
     "306": {
       "id": 306,
