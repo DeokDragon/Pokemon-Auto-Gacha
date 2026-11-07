@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 282,
-  "updatedAt": "2026-11-07T14:11:45.784Z",
+  "totalPulls": 283,
+  "updatedAt": "2026-11-07T18:51:49.204Z",
   "lastPull": {
-    "id": 872,
-    "name": "snom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "id": 38,
+    "name": "ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "types": [
-      "ice",
-      "bug"
+      "fire"
     ],
-    "totalStats": 185,
-    "grade": "N",
-    "pulledAt": "2026-11-07T14:11:45.784Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T18:51:49.204Z"
   },
   "pulls": [
+    {
+      "id": 38,
+      "name": "ninetales",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:51:49.204Z"
+    },
     {
       "id": 872,
       "name": "snom",
@@ -115,18 +125,6 @@
       "totalStats": 466,
       "grade": "R",
       "pulledAt": "2026-11-05T14:54:30.851Z"
-    },
-    {
-      "id": 867,
-      "name": "runerigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-11-05T06:27:10.600Z"
     }
   ],
   "pokemon": {
@@ -266,6 +264,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T17:03:02.197Z",
       "lastPulledAt": "2026-10-23T17:03:02.197Z"
+    },
+    "38": {
+      "id": 38,
+      "name": "ninetales",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:51:49.204Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T18:51:49.204Z",
+      "lastPulledAt": "2026-11-07T18:51:49.204Z"
     },
     "39": {
       "id": 39,
