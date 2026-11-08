@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-08T19:41:55.400Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-08T23:12:10.435Z",
   "lastPull": {
-    "id": 706,
-    "name": "goodra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "id": 983,
+    "name": "kingambit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
     "types": [
-      "dragon"
+      "dark",
+      "steel"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-08T19:41:55.400Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T23:12:10.435Z"
   },
   "pulls": [
+    {
+      "id": 983,
+      "name": "kingambit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T23:12:10.435Z"
+    },
     {
       "id": 706,
       "name": "goodra",
@@ -116,17 +129,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-07T01:13:18.541Z"
-    },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 514,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T21:37:10.919Z"
     }
   ],
   "pokemon": {
@@ -3978,6 +3980,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:38:02.921Z",
       "lastPulledAt": "2026-09-19T21:38:02.921Z"
+    },
+    "983": {
+      "id": 983,
+      "name": "kingambit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T23:12:10.435Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T23:12:10.435Z",
+      "lastPulledAt": "2026-11-08T23:12:10.435Z"
     },
     "984": {
       "id": 984,
