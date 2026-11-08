@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-08T15:09:14.122Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-08T19:41:55.400Z",
   "lastPull": {
-    "id": 6,
-    "name": "charizard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "id": 706,
+    "name": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
     "types": [
-      "fire",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T15:09:14.122Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-08T19:41:55.400Z"
   },
   "pulls": [
+    {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T19:41:55.400Z"
+    },
     {
       "id": 6,
       "name": "charizard",
@@ -117,17 +127,6 @@
       "totalStats": 514,
       "grade": "SR",
       "pulledAt": "2026-11-06T21:37:10.919Z"
-    },
-    {
-      "id": 295,
-      "name": "exploud",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-06T16:15:58.701Z"
     }
   ],
   "pokemon": {
@@ -2672,6 +2671,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T11:25:44.641Z",
       "lastPulledAt": "2026-11-04T11:25:44.641Z"
+    },
+    "706": {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T19:41:55.400Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T19:41:55.400Z",
+      "lastPulledAt": "2026-11-08T19:41:55.400Z"
     },
     "711": {
       "id": 711,
