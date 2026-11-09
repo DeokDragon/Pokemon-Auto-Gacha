@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 290,
-  "updatedAt": "2026-11-09T02:44:29.355Z",
+  "totalPulls": 291,
+  "updatedAt": "2026-11-09T10:25:41.663Z",
   "lastPull": {
-    "id": 91,
-    "name": "cloyster",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "id": 27,
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": [
-      "water",
-      "ice"
+      "ground"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T02:44:29.355Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-09T10:25:41.663Z"
   },
   "pulls": [
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-09T10:25:41.663Z"
+    },
     {
       "id": 91,
       "name": "cloyster",
@@ -119,17 +129,6 @@
       "totalStats": 185,
       "grade": "N",
       "pulledAt": "2026-11-07T14:11:45.784Z"
-    },
-    {
-      "id": 846,
-      "name": "arrokuda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-07T07:18:18.423Z"
     }
   ],
   "pokemon": {
@@ -255,6 +254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T09:44:40.452Z",
       "lastPulledAt": "2026-10-16T09:44:40.452Z"
+    },
+    "27": {
+      "id": 27,
+      "name": "sandshrew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-09T10:25:41.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T10:25:41.663Z",
+      "lastPulledAt": "2026-11-09T10:25:41.663Z"
     },
     "29": {
       "id": 29,
