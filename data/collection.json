@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 289,
-  "updatedAt": "2026-11-08T23:12:10.435Z",
+  "totalPulls": 290,
+  "updatedAt": "2026-11-09T02:44:29.355Z",
   "lastPull": {
-    "id": 983,
-    "name": "kingambit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "id": 91,
+    "name": "cloyster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
     "types": [
-      "dark",
-      "steel"
+      "water",
+      "ice"
     ],
-    "totalStats": 550,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-08T23:12:10.435Z"
+    "pulledAt": "2026-11-09T02:44:29.355Z"
   },
   "pulls": [
+    {
+      "id": 91,
+      "name": "cloyster",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:44:29.355Z"
+    },
     {
       "id": 983,
       "name": "kingambit",
@@ -118,17 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-07T07:18:18.423Z"
-    },
-    {
-      "id": 97,
-      "name": "hypno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-11-07T01:13:18.541Z"
     }
   ],
   "pokemon": {
@@ -499,6 +500,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T20:34:04.571Z",
       "lastPulledAt": "2026-10-30T20:34:04.571Z"
+    },
+    "91": {
+      "id": 91,
+      "name": "cloyster",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:44:29.355Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T02:44:29.355Z",
+      "lastPulledAt": "2026-11-09T02:44:29.355Z"
     },
     "97": {
       "id": 97,
