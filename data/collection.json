@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-09T10:25:41.663Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-09T20:59:08.651Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
+      "poison",
       "ground"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-09T10:25:41.663Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T20:59:08.651Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T20:59:08.651Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -117,18 +130,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-07T18:51:49.204Z"
-    },
-    {
-      "id": 872,
-      "name": "snom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
-      "types": [
-        "ice",
-        "bug"
-      ],
-      "totalStats": 185,
-      "grade": "N",
-      "pulledAt": "2026-11-07T14:11:45.784Z"
     }
   ],
   "pokemon": {
@@ -284,6 +285,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-10-03T06:40:56.925Z"
+    },
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T20:59:08.651Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T20:59:08.651Z",
+      "lastPulledAt": "2026-11-09T20:59:08.651Z"
     },
     "37": {
       "id": 37,
