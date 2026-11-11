@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-11T11:21:58.699Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-11T18:50:21.236Z",
   "lastPull": {
-    "id": 127,
-    "name": "pinsir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "id": 129,
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T11:21:58.699Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-11-11T18:50:21.236Z"
   },
   "pulls": [
+    {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-11T18:50:21.236Z"
+    },
     {
       "id": 127,
       "name": "pinsir",
@@ -116,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-09T02:44:29.355Z"
-    },
-    {
-      "id": 983,
-      "name": "kingambit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T23:12:10.435Z"
     }
   ],
   "pokemon": {
@@ -727,6 +726,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T11:21:58.699Z",
       "lastPulledAt": "2026-11-11T11:21:58.699Z"
+    },
+    "129": {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-11T18:50:21.236Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T18:50:21.236Z",
+      "lastPulledAt": "2026-11-11T18:50:21.236Z"
     },
     "132": {
       "id": 132,
