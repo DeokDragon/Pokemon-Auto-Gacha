@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-11T03:23:46.672Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-11T11:21:58.699Z",
   "lastPull": {
-    "id": 821,
-    "name": "rookidee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "id": 127,
+    "name": "pinsir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "types": [
-      "flying"
+      "bug"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-11-11T03:23:46.672Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T11:21:58.699Z"
   },
   "pulls": [
+    {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T11:21:58.699Z"
+    },
     {
       "id": 821,
       "name": "rookidee",
@@ -117,17 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-08T23:12:10.435Z"
-    },
-    {
-      "id": 706,
-      "name": "goodra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-08T19:41:55.400Z"
     }
   ],
   "pokemon": {
@@ -712,6 +712,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T23:09:07.129Z",
       "lastPulledAt": "2026-10-24T23:09:07.129Z"
+    },
+    "127": {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T11:21:58.699Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T11:21:58.699Z",
+      "lastPulledAt": "2026-11-11T11:21:58.699Z"
     },
     "132": {
       "id": 132,
