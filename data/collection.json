@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-10T23:49:06.968Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-11T03:23:46.672Z",
   "lastPull": {
-    "id": 765,
-    "name": "oranguru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "id": 821,
+    "name": "rookidee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
     "types": [
-      "normal",
-      "psychic"
+      "flying"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-10T23:49:06.968Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-11-11T03:23:46.672Z"
   },
   "pulls": [
+    {
+      "id": 821,
+      "name": "rookidee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-11-11T03:23:46.672Z"
+    },
     {
       "id": 765,
       "name": "oranguru",
@@ -118,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-08T19:41:55.400Z"
-    },
-    {
-      "id": 6,
-      "name": "charizard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T15:09:14.122Z"
     }
   ],
   "pokemon": {
@@ -3198,10 +3196,10 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-17T06:13:01.055Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T06:13:01.055Z",
-      "lastPulledAt": "2026-10-17T06:13:01.055Z"
+      "lastPulledAt": "2026-11-11T03:23:46.672Z"
     },
     "823": {
       "id": 823,
