@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-12T08:43:31.488Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-12T17:07:51.548Z",
   "lastPull": {
-    "id": 872,
-    "name": "snom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "id": 774,
+    "name": "minior-red-meteor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
     "types": [
-      "ice",
-      "bug"
+      "rock",
+      "flying"
     ],
-    "totalStats": 185,
-    "grade": "N",
-    "pulledAt": "2026-11-12T08:43:31.488Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-12T17:07:51.548Z"
   },
   "pulls": [
+    {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-12T17:07:51.548Z"
+    },
     {
       "id": 872,
       "name": "snom",
@@ -116,18 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-10T03:25:49.982Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T20:59:08.651Z"
     }
   ],
   "pokemon": {
@@ -3041,10 +3041,10 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-09T13:52:06.357Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T13:52:06.357Z",
-      "lastPulledAt": "2026-10-09T13:52:06.357Z"
+      "lastPulledAt": "2026-11-12T17:07:51.548Z"
     },
     "779": {
       "id": 779,
