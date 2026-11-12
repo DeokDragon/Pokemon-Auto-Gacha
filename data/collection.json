@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-12T17:07:51.548Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-12T22:43:34.721Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 195,
+    "name": "quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
     "types": [
-      "rock",
-      "flying"
+      "water",
+      "ground"
     ],
-    "totalStats": 440,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-11-12T17:07:51.548Z"
+    "pulledAt": "2026-11-12T22:43:34.721Z"
   },
   "pulls": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:43:34.721Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -117,17 +129,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-10T11:37:15.122Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-11-10T03:25:49.982Z"
     }
   ],
   "pokemon": {
@@ -1021,6 +1022,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T02:42:16.471Z",
       "lastPulledAt": "2026-10-30T02:42:16.471Z"
+    },
+    "195": {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:43:34.721Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T22:43:34.721Z",
+      "lastPulledAt": "2026-11-12T22:43:34.721Z"
     },
     "198": {
       "id": 198,
