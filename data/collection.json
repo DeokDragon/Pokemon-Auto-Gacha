@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-11T18:50:21.236Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-12T01:23:18.034Z",
   "lastPull": {
-    "id": 129,
-    "name": "magikarp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "id": 33,
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "types": [
-      "water"
+      "poison"
     ],
-    "totalStats": 200,
+    "totalStats": 365,
     "grade": "N",
-    "pulledAt": "2026-11-11T18:50:21.236Z"
+    "pulledAt": "2026-11-12T01:23:18.034Z"
   },
   "pulls": [
+    {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-12T01:23:18.034Z"
+    },
     {
       "id": 129,
       "name": "magikarp",
@@ -115,18 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-09T10:25:41.663Z"
-    },
-    {
-      "id": 91,
-      "name": "cloyster",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T02:44:29.355Z"
     }
   ],
   "pokemon": {
@@ -282,6 +281,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-10-03T06:40:56.925Z"
+    },
+    "33": {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-12T01:23:18.034Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T01:23:18.034Z",
+      "lastPulledAt": "2026-11-12T01:23:18.034Z"
     },
     "34": {
       "id": 34,
