@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-13T18:14:32.776Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-13T23:41:07.897Z",
   "lastPull": {
-    "id": 46,
-    "name": "paras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "id": 240,
+    "name": "magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
     "types": [
-      "bug",
-      "grass"
+      "fire"
     ],
-    "totalStats": 285,
+    "totalStats": 365,
     "grade": "N",
-    "pulledAt": "2026-11-13T18:14:32.776Z"
+    "pulledAt": "2026-11-13T23:41:07.897Z"
   },
   "pulls": [
+    {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-11-13T23:41:07.897Z"
+    },
     {
       "id": 46,
       "name": "paras",
@@ -117,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-11T11:21:58.699Z"
-    },
-    {
-      "id": 821,
-      "name": "rookidee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-11-11T03:23:46.672Z"
     }
   ],
   "pokemon": {
@@ -1267,10 +1266,10 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-03T12:05:14.057Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:05:14.057Z",
-      "lastPulledAt": "2026-10-03T12:05:14.057Z"
+      "lastPulledAt": "2026-11-13T23:41:07.897Z"
     },
     "246": {
       "id": 246,
