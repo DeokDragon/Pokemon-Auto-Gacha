@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 303,
-  "updatedAt": "2026-11-12T22:43:34.721Z",
+  "totalPulls": 304,
+  "updatedAt": "2026-11-13T02:58:30.413Z",
   "lastPull": {
-    "id": 195,
-    "name": "quagsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "id": 764,
+    "name": "comfey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
     "types": [
-      "water",
-      "ground"
+      "fairy"
     ],
-    "totalStats": 430,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-12T22:43:34.721Z"
+    "pulledAt": "2026-11-13T02:58:30.413Z"
   },
   "pulls": [
+    {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-13T02:58:30.413Z"
+    },
     {
       "id": 195,
       "name": "quagsire",
@@ -117,18 +127,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-10T18:49:51.271Z"
-    },
-    {
-      "id": 410,
-      "name": "shieldon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-10T11:37:15.122Z"
     }
   ],
   "pokemon": {
@@ -3010,10 +3008,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-13T16:10:12.784Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T16:10:12.784Z",
-      "lastPulledAt": "2026-10-13T16:10:12.784Z"
+      "lastPulledAt": "2026-11-13T02:58:30.413Z"
     },
     "765": {
       "id": 765,
