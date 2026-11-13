@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 305,
-  "updatedAt": "2026-11-13T10:49:36.142Z",
+  "totalPulls": 306,
+  "updatedAt": "2026-11-13T18:14:32.776Z",
   "lastPull": {
-    "id": 511,
-    "name": "pansage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "id": 46,
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "types": [
+      "bug",
       "grass"
     ],
-    "totalStats": 316,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-11-13T10:49:36.142Z"
+    "pulledAt": "2026-11-13T18:14:32.776Z"
   },
   "pulls": [
+    {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-13T18:14:32.776Z"
+    },
     {
       "id": 511,
       "name": "pansage",
@@ -115,18 +128,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-11-11T03:23:46.672Z"
-    },
-    {
-      "id": 765,
-      "name": "oranguru",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-10T23:49:06.968Z"
     }
   ],
   "pokemon": {
@@ -359,6 +360,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T11:41:30.613Z",
       "lastPulledAt": "2026-10-18T11:41:30.613Z"
+    },
+    "46": {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-13T18:14:32.776Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T18:14:32.776Z",
+      "lastPulledAt": "2026-11-13T18:14:32.776Z"
     },
     "52": {
       "id": 52,
