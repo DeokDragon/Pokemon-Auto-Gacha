@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-14T03:37:58.626Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-14T10:56:35.328Z",
   "lastPull": {
-    "id": 322,
-    "name": "numel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "fire",
       "ground"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-14T03:37:58.626Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T10:56:35.328Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T10:56:35.328Z"
+    },
     {
       "id": 322,
       "name": "numel",
@@ -118,17 +128,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-12T01:23:18.034Z"
-    },
-    {
-      "id": 129,
-      "name": "magikarp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-11-11T18:50:21.236Z"
     }
   ],
   "pokemon": {
@@ -2999,6 +2998,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T19:21:44.497Z",
       "lastPulledAt": "2026-10-10T19:21:44.497Z"
+    },
+    "750": {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T10:56:35.328Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T10:56:35.328Z",
+      "lastPulledAt": "2026-11-14T10:56:35.328Z"
     },
     "751": {
       "id": 751,
