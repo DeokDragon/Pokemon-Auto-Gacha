@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-15T15:05:35.743Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-15T20:22:53.892Z",
   "lastPull": {
-    "id": 410,
-    "name": "shieldon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "rock",
-      "steel"
+      "normal",
+      "flying"
     ],
-    "totalStats": 350,
+    "totalStats": 265,
     "grade": "N",
-    "pulledAt": "2026-11-15T15:05:35.743Z"
+    "pulledAt": "2026-11-15T20:22:53.892Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-15T20:22:53.892Z"
+    },
     {
       "id": 410,
       "name": "shieldon",
@@ -120,17 +132,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-13T18:14:32.776Z"
-    },
-    {
-      "id": 511,
-      "name": "pansage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-11-13T10:49:36.142Z"
     }
   ],
   "pokemon": {
@@ -3001,6 +3002,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T00:30:46.651Z",
       "lastPulledAt": "2026-10-14T00:30:46.651Z"
+    },
+    "731": {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-15T20:22:53.892Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T20:22:53.892Z",
+      "lastPulledAt": "2026-11-15T20:22:53.892Z"
     },
     "748": {
       "id": 748,
