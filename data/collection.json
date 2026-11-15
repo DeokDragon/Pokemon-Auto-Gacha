@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-15T07:49:57.569Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-15T15:05:35.743Z",
   "lastPull": {
-    "id": 639,
-    "name": "terrakion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "id": 410,
+    "name": "shieldon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
     "types": [
       "rock",
-      "fighting"
+      "steel"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T07:49:57.569Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-15T15:05:35.743Z"
   },
   "pulls": [
+    {
+      "id": 410,
+      "name": "shieldon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-15T15:05:35.743Z"
+    },
     {
       "id": 639,
       "name": "terrakion",
@@ -119,17 +131,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-11-13T10:49:36.142Z"
-    },
-    {
-      "id": 764,
-      "name": "comfey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-13T02:58:30.413Z"
     }
   ],
   "pokemon": {
@@ -1969,10 +1970,10 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-10-30T15:53:02.646Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T15:53:02.646Z",
-      "lastPulledAt": "2026-11-10T11:37:15.122Z"
+      "lastPulledAt": "2026-11-15T15:05:35.743Z"
     },
     "415": {
       "id": 415,
