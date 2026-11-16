@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 317,
-  "updatedAt": "2026-11-16T06:47:53.906Z",
+  "totalPulls": 318,
+  "updatedAt": "2026-11-16T16:30:24.158Z",
   "lastPull": {
-    "id": 940,
-    "name": "wattrel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    "id": 343,
+    "name": "baltoy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
     "types": [
-      "electric",
-      "flying"
+      "ground",
+      "psychic"
     ],
-    "totalStats": 280,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-16T06:47:53.906Z"
+    "pulledAt": "2026-11-16T16:30:24.158Z"
   },
   "pulls": [
+    {
+      "id": 343,
+      "name": "baltoy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-16T16:30:24.158Z"
+    },
     {
       "id": 940,
       "name": "wattrel",
@@ -120,18 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-14T10:56:35.328Z"
-    },
-    {
-      "id": 322,
-      "name": "numel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
-      "types": [
-        "fire",
-        "ground"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-14T03:37:58.626Z"
     }
   ],
   "pokemon": {
@@ -1664,6 +1664,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T10:17:36.932Z",
       "lastPulledAt": "2026-09-23T10:17:36.932Z"
+    },
+    "343": {
+      "id": 343,
+      "name": "baltoy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-16T16:30:24.158Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T16:30:24.158Z",
+      "lastPulledAt": "2026-11-16T16:30:24.158Z"
     },
     "347": {
       "id": 347,
