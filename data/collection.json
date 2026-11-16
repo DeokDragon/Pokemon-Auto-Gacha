@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-15T20:22:53.892Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-16T00:12:44.717Z",
   "lastPull": {
-    "id": 731,
-    "name": "pikipek",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "normal",
-      "flying"
+      "water"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-11-15T20:22:53.892Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-11-16T00:12:44.717Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-16T00:12:44.717Z"
+    },
     {
       "id": 731,
       "name": "pikipek",
@@ -120,18 +130,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-13T23:41:07.897Z"
-    },
-    {
-      "id": 46,
-      "name": "paras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-13T18:14:32.776Z"
     }
   ],
   "pokemon": {
@@ -4133,10 +4131,10 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-26T19:33:15.358Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T19:33:15.358Z",
-      "lastPulledAt": "2026-10-26T19:33:15.358Z"
+      "lastPulledAt": "2026-11-16T00:12:44.717Z"
     },
     "963": {
       "id": 963,
