@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-17T08:24:12.393Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-17T17:47:44.609Z",
   "lastPull": {
-    "id": 897,
-    "name": "spectrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "id": 991,
+    "name": "iron-bundle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
     "types": [
-      "ghost"
+      "ice",
+      "water"
     ],
-    "totalStats": 580,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-17T08:24:12.393Z"
+    "pulledAt": "2026-11-17T17:47:44.609Z"
   },
   "pulls": [
+    {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T17:47:44.609Z"
+    },
     {
       "id": 897,
       "name": "spectrier",
@@ -119,18 +132,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-15T01:07:35.577Z"
-    },
-    {
-      "id": 805,
-      "name": "stakataka",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T21:18:04.913Z"
     }
   ],
   "pokemon": {
@@ -4341,6 +4342,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:54:20.547Z",
       "lastPulledAt": "2026-09-20T18:54:20.547Z"
+    },
+    "991": {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T17:47:44.609Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T17:47:44.609Z",
+      "lastPulledAt": "2026-11-17T17:47:44.609Z"
     },
     "993": {
       "id": 993,
