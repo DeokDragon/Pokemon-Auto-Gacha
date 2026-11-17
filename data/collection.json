@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-17T00:28:35.955Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-17T08:24:12.393Z",
   "lastPull": {
-    "id": 246,
-    "name": "larvitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "id": 897,
+    "name": "spectrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
     "types": [
-      "rock",
-      "ground"
+      "ghost"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-17T00:28:35.955Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T08:24:12.393Z"
   },
   "pulls": [
+    {
+      "id": 897,
+      "name": "spectrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T08:24:12.393Z"
+    },
     {
       "id": 246,
       "name": "larvitar",
@@ -121,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-14T21:18:04.913Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T16:57:02.061Z"
     }
   ],
   "pokemon": {
@@ -3827,6 +3825,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:58:04.026Z",
       "lastPulledAt": "2026-09-25T19:58:04.026Z"
+    },
+    "897": {
+      "id": 897,
+      "name": "spectrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T08:24:12.393Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T08:24:12.393Z",
+      "lastPulledAt": "2026-11-17T08:24:12.393Z"
     },
     "900": {
       "id": 900,
