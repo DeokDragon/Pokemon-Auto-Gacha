@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-18T07:18:29.040Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-18T16:35:40.273Z",
   "lastPull": {
-    "id": 964,
-    "name": "palafin-zero",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "id": 537,
+    "name": "seismitoad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
     "types": [
-      "water"
+      "water",
+      "ground"
     ],
-    "totalStats": 457,
-    "grade": "R",
-    "pulledAt": "2026-11-18T07:18:29.040Z"
+    "totalStats": 509,
+    "grade": "SR",
+    "pulledAt": "2026-11-18T16:35:40.273Z"
   },
   "pulls": [
+    {
+      "id": 537,
+      "name": "seismitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 509,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T16:35:40.273Z"
+    },
     {
       "id": 964,
       "name": "palafin-zero",
@@ -118,18 +131,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-11-15T20:22:53.892Z"
-    },
-    {
-      "id": 410,
-      "name": "shieldon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-15T15:05:35.743Z"
     }
   ],
   "pokemon": {
@@ -2374,6 +2375,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T11:58:22.508Z",
       "lastPulledAt": "2026-10-24T11:58:22.508Z"
+    },
+    "537": {
+      "id": 537,
+      "name": "seismitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 509,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T16:35:40.273Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T16:35:40.273Z",
+      "lastPulledAt": "2026-11-18T16:35:40.273Z"
     },
     "540": {
       "id": 540,
