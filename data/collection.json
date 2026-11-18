@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-17T17:47:44.609Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-18T00:02:30.785Z",
   "lastPull": {
-    "id": 991,
-    "name": "iron-bundle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    "id": 31,
+    "name": "nidoqueen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
     "types": [
-      "ice",
-      "water"
+      "poison",
+      "ground"
     ],
-    "totalStats": 570,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-11-17T17:47:44.609Z"
+    "pulledAt": "2026-11-18T00:02:30.785Z"
   },
   "pulls": [
+    {
+      "id": 31,
+      "name": "nidoqueen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T00:02:30.785Z"
+    },
     {
       "id": 991,
       "name": "iron-bundle",
@@ -120,18 +132,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-15T07:49:57.569Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T01:07:35.577Z"
     }
   ],
   "pokemon": {
@@ -287,6 +287,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:21:57.357Z",
       "lastPulledAt": "2026-10-03T06:40:56.925Z"
+    },
+    "31": {
+      "id": 31,
+      "name": "nidoqueen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T00:02:30.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T00:02:30.785Z",
+      "lastPulledAt": "2026-11-18T00:02:30.785Z"
     },
     "33": {
       "id": 33,
