@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-19T13:29:41.883Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-19T21:45:08.865Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 417,
+    "name": "pachirisu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
     "types": [
-      "fire"
+      "electric"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T13:29:41.883Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-19T21:45:08.865Z"
   },
   "pulls": [
+    {
+      "id": 417,
+      "name": "pachirisu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-19T21:45:08.865Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -118,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-17T00:28:35.955Z"
-    },
-    {
-      "id": 343,
-      "name": "baltoy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-16T16:30:24.158Z"
     }
   ],
   "pokemon": {
@@ -2052,6 +2051,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T06:33:43.017Z",
       "lastPulledAt": "2026-10-26T06:33:43.017Z"
+    },
+    "417": {
+      "id": 417,
+      "name": "pachirisu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-19T21:45:08.865Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T21:45:08.865Z",
+      "lastPulledAt": "2026-11-19T21:45:08.865Z"
     },
     "420": {
       "id": 420,
