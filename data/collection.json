@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-20T10:36:12.402Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-20T18:49:48.524Z",
   "lastPull": {
-    "id": 652,
-    "name": "chesnaught",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "id": 664,
+    "name": "scatterbug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
     "types": [
-      "grass",
-      "fighting"
+      "bug"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-20T10:36:12.402Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-11-20T18:49:48.524Z"
   },
   "pulls": [
+    {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-20T18:49:48.524Z"
+    },
     {
       "id": 652,
       "name": "chesnaught",
@@ -119,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-18T00:02:30.785Z"
-    },
-    {
-      "id": 991,
-      "name": "iron-bundle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T17:47:44.609Z"
     }
   ],
   "pokemon": {
@@ -2877,6 +2875,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T21:07:12.950Z",
       "lastPulledAt": "2026-10-25T21:07:12.950Z"
+    },
+    "664": {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-20T18:49:48.524Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T18:49:48.524Z",
+      "lastPulledAt": "2026-11-20T18:49:48.524Z"
     },
     "678": {
       "id": 678,
