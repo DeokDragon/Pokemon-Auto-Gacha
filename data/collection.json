@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-20T18:49:48.524Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-21T00:26:16.630Z",
   "lastPull": {
-    "id": 664,
-    "name": "scatterbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "id": 129,
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "types": [
-      "bug"
+      "water"
     ],
     "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-11-20T18:49:48.524Z"
+    "pulledAt": "2026-11-21T00:26:16.630Z"
   },
   "pulls": [
+    {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-21T00:26:16.630Z"
+    },
     {
       "id": 664,
       "name": "scatterbug",
@@ -117,18 +128,6 @@
       "totalStats": 457,
       "grade": "R",
       "pulledAt": "2026-11-18T07:18:29.040Z"
-    },
-    {
-      "id": 31,
-      "name": "nidoqueen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T00:02:30.785Z"
     }
   ],
   "pokemon": {
@@ -817,10 +816,10 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-11-11T18:50:21.236Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T18:50:21.236Z",
-      "lastPulledAt": "2026-11-11T18:50:21.236Z"
+      "lastPulledAt": "2026-11-21T00:26:16.630Z"
     },
     "132": {
       "id": 132,
