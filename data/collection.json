@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-21T00:26:16.630Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-21T07:37:21.410Z",
   "lastPull": {
-    "id": 129,
-    "name": "magikarp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "water"
+      "water",
+      "bug"
     ],
-    "totalStats": 200,
+    "totalStats": 269,
     "grade": "N",
-    "pulledAt": "2026-11-21T00:26:16.630Z"
+    "pulledAt": "2026-11-21T07:37:21.410Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:37:21.410Z"
+    },
     {
       "id": 129,
       "name": "magikarp",
@@ -117,17 +130,6 @@
       "totalStats": 509,
       "grade": "SR",
       "pulledAt": "2026-11-18T16:35:40.273Z"
-    },
-    {
-      "id": 964,
-      "name": "palafin-zero",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 457,
-      "grade": "R",
-      "pulledAt": "2026-11-18T07:18:29.040Z"
     }
   ],
   "pokemon": {
@@ -3182,10 +3184,10 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-10-20T15:12:48.505Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T15:12:48.505Z",
-      "lastPulledAt": "2026-10-20T15:12:48.505Z"
+      "lastPulledAt": "2026-11-21T07:37:21.410Z"
     },
     "753": {
       "id": 753,
