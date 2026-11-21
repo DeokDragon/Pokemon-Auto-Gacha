@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-21T15:37:25.380Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-21T21:09:51.646Z",
   "lastPull": {
-    "id": 969,
-    "name": "glimmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "id": 644,
+    "name": "zekrom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
     "types": [
-      "rock",
-      "poison"
+      "dragon",
+      "electric"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-11-21T15:37:25.380Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-21T21:09:51.646Z"
   },
   "pulls": [
+    {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T21:09:51.646Z"
+    },
     {
       "id": 969,
       "name": "glimmet",
@@ -118,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-19T04:10:25.940Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T23:07:30.657Z"
     }
   ],
   "pokemon": {
@@ -2783,6 +2783,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T07:49:57.569Z",
       "lastPulledAt": "2026-11-15T07:49:57.569Z"
+    },
+    "644": {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T21:09:51.646Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T21:09:51.646Z",
+      "lastPulledAt": "2026-11-21T21:09:51.646Z"
     },
     "647": {
       "id": 647,
