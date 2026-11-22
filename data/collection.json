@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-21T21:09:51.646Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-22T01:20:34.707Z",
   "lastPull": {
-    "id": 644,
-    "name": "zekrom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "id": 99,
+    "name": "kingler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
     "types": [
-      "dragon",
-      "electric"
+      "water"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-21T21:09:51.646Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-11-22T01:20:34.707Z"
   },
   "pulls": [
+    {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-22T01:20:34.707Z"
+    },
     {
       "id": 644,
       "name": "zekrom",
@@ -118,18 +128,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-11-19T13:29:41.883Z"
-    },
-    {
-      "id": 94,
-      "name": "gengar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T04:10:25.940Z"
     }
   ],
   "pokemon": {
@@ -640,6 +638,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T01:13:18.541Z",
       "lastPulledAt": "2026-11-07T01:13:18.541Z"
+    },
+    "99": {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-22T01:20:34.707Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T01:20:34.707Z",
+      "lastPulledAt": "2026-11-22T01:20:34.707Z"
     },
     "105": {
       "id": 105,
