@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-22T08:38:05.006Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-22T16:38:14.050Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 169,
+    "name": "crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
     "types": [
-      "normal"
+      "poison",
+      "flying"
     ],
-    "totalStats": 489,
-    "grade": "R",
-    "pulledAt": "2026-11-22T08:38:05.006Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T16:38:14.050Z"
   },
   "pulls": [
+    {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T16:38:14.050Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -117,17 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-20T02:40:25.626Z"
-    },
-    {
-      "id": 417,
-      "name": "pachirisu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-19T21:45:08.865Z"
     }
   ],
   "pokemon": {
@@ -1038,6 +1040,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:56:31.517Z",
       "lastPulledAt": "2026-09-17T16:56:31.517Z"
+    },
+    "169": {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T16:38:14.050Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T16:38:14.050Z",
+      "lastPulledAt": "2026-11-22T16:38:14.050Z"
     },
     "172": {
       "id": 172,
