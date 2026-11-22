@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-22T01:20:34.707Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-22T08:38:05.006Z",
   "lastPull": {
-    "id": 99,
-    "name": "kingler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 475,
+    "totalStats": 489,
     "grade": "R",
-    "pulledAt": "2026-11-22T01:20:34.707Z"
+    "pulledAt": "2026-11-22T08:38:05.006Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-22T08:38:05.006Z"
+    },
     {
       "id": 99,
       "name": "kingler",
@@ -117,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-19T21:45:08.865Z"
-    },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T13:29:41.883Z"
     }
   ],
   "pokemon": {
@@ -4056,6 +4056,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T00:10:42.313Z",
       "lastPulledAt": "2026-10-06T00:10:42.313Z"
+    },
+    "916": {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-22T08:38:05.006Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T08:38:05.006Z",
+      "lastPulledAt": "2026-11-22T08:38:05.006Z"
     },
     "917": {
       "id": 917,
