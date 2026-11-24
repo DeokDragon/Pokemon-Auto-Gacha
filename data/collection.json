@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-23T22:51:25.362Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-24T06:50:32.012Z",
   "lastPull": {
-    "id": 194,
-    "name": "wooper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "id": 114,
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "types": [
-      "water",
-      "ground"
+      "grass"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-11-23T22:51:25.362Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-11-24T06:50:32.012Z"
   },
   "pulls": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-24T06:50:32.012Z"
+    },
     {
       "id": 194,
       "name": "wooper",
@@ -117,18 +127,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-21T15:37:25.380Z"
-    },
-    {
-      "id": 751,
-      "name": "dewpider",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-11-21T07:37:21.410Z"
     }
   ],
   "pokemon": {
@@ -730,6 +728,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T23:40:31.440Z",
       "lastPulledAt": "2026-11-03T23:40:31.440Z"
+    },
+    "114": {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-24T06:50:32.012Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T06:50:32.012Z",
+      "lastPulledAt": "2026-11-24T06:50:32.012Z"
     },
     "117": {
       "id": 117,
