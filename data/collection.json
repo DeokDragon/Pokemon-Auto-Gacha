@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 343,
-  "updatedAt": "2026-11-24T06:50:32.012Z",
+  "totalPulls": 344,
+  "updatedAt": "2026-11-24T18:44:10.095Z",
   "lastPull": {
-    "id": 114,
-    "name": "tangela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "id": 831,
+    "name": "wooloo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-11-24T06:50:32.012Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-11-24T18:44:10.095Z"
   },
   "pulls": [
+    {
+      "id": 831,
+      "name": "wooloo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-24T18:44:10.095Z"
+    },
     {
       "id": 114,
       "name": "tangela",
@@ -115,18 +126,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-21T21:09:51.646Z"
-    },
-    {
-      "id": 969,
-      "name": "glimmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-21T15:37:25.380Z"
     }
   ],
   "pokemon": {
@@ -3650,6 +3649,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T01:48:42.666Z",
       "lastPulledAt": "2026-11-08T01:48:42.666Z"
+    },
+    "831": {
+      "id": 831,
+      "name": "wooloo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-24T18:44:10.095Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T18:44:10.095Z",
+      "lastPulledAt": "2026-11-24T18:44:10.095Z"
     },
     "836": {
       "id": 836,
