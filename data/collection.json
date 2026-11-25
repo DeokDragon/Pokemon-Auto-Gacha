@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-24T18:44:10.095Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-25T02:49:12.025Z",
   "lastPull": {
-    "id": 831,
-    "name": "wooloo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+    "id": 630,
+    "name": "mandibuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
     "types": [
-      "normal"
+      "dark",
+      "flying"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-11-24T18:44:10.095Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-25T02:49:12.025Z"
   },
   "pulls": [
+    {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T02:49:12.025Z"
+    },
     {
       "id": 831,
       "name": "wooloo",
@@ -114,18 +127,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-22T01:20:34.707Z"
-    },
-    {
-      "id": 644,
-      "name": "zekrom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
-      "types": [
-        "dragon",
-        "electric"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-21T21:09:51.646Z"
     }
   ],
   "pokemon": {
@@ -2823,6 +2824,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:11:47.956Z",
       "lastPulledAt": "2026-10-28T02:16:38.938Z"
+    },
+    "630": {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T02:49:12.025Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T02:49:12.025Z",
+      "lastPulledAt": "2026-11-25T02:49:12.025Z"
     },
     "632": {
       "id": 632,
