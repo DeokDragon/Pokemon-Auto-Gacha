@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 346,
-  "updatedAt": "2026-11-25T11:49:29.134Z",
+  "totalPulls": 347,
+  "updatedAt": "2026-11-25T20:47:12.377Z",
   "lastPull": {
-    "id": 680,
-    "name": "doublade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "id": 106,
+    "name": "hitmonlee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
     "types": [
-      "steel",
-      "ghost"
+      "fighting"
     ],
-    "totalStats": 448,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-25T11:49:29.134Z"
+    "pulledAt": "2026-11-25T20:47:12.377Z"
   },
   "pulls": [
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-25T20:47:12.377Z"
+    },
     {
       "id": 680,
       "name": "doublade",
@@ -117,17 +127,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-22T16:38:14.050Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-11-22T08:38:05.006Z"
     }
   ],
   "pokemon": {
@@ -683,6 +682,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:15:02.352Z",
       "lastPulledAt": "2026-10-20T19:22:45.537Z"
+    },
+    "106": {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-25T20:47:12.377Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T20:47:12.377Z",
+      "lastPulledAt": "2026-11-25T20:47:12.377Z"
     },
     "108": {
       "id": 108,
