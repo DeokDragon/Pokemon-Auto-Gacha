@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-26T12:51:45.266Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-26T22:10:51.294Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 877,
+    "name": "morpeko-full-belly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
     "types": [
-      "fire"
+      "electric",
+      "dark"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-11-26T12:51:45.266Z"
+    "totalStats": 436,
+    "grade": "R",
+    "pulledAt": "2026-11-26T22:10:51.294Z"
   },
   "pulls": [
+    {
+      "id": 877,
+      "name": "morpeko-full-belly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "totalStats": 436,
+      "grade": "R",
+      "pulledAt": "2026-11-26T22:10:51.294Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -115,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-23T11:21:24.435Z"
-    },
-    {
-      "id": 766,
-      "name": "passimian",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-23T02:41:53.619Z"
     }
   ],
   "pokemon": {
@@ -3926,6 +3928,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T21:29:34.648Z",
       "lastPulledAt": "2026-10-07T21:29:34.648Z"
+    },
+    "877": {
+      "id": 877,
+      "name": "morpeko-full-belly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "totalStats": 436,
+      "grade": "R",
+      "pulledAt": "2026-11-26T22:10:51.294Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T22:10:51.294Z",
+      "lastPulledAt": "2026-11-26T22:10:51.294Z"
     },
     "878": {
       "id": 878,
