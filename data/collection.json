@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-27T14:03:50.946Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-27T22:39:55.527Z",
   "lastPull": {
-    "id": 36,
-    "name": "clefable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "id": 109,
+    "name": "koffing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
     "types": [
-      "fairy"
+      "poison"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-27T14:03:50.946Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-27T22:39:55.527Z"
   },
   "pulls": [
+    {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-27T22:39:55.527Z"
+    },
     {
       "id": 36,
       "name": "clefable",
@@ -115,17 +126,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-11-24T18:44:10.095Z"
-    },
-    {
-      "id": 114,
-      "name": "tangela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-11-24T06:50:32.012Z"
     }
   ],
   "pokemon": {
@@ -726,6 +726,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T01:10:38.258Z",
       "lastPulledAt": "2026-10-25T01:10:38.258Z"
+    },
+    "109": {
+      "id": 109,
+      "name": "koffing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-27T22:39:55.527Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T22:39:55.527Z",
+      "lastPulledAt": "2026-11-27T22:39:55.527Z"
     },
     "110": {
       "id": 110,
