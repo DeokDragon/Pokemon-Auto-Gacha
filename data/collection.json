@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-26T22:10:51.294Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-27T04:19:27.127Z",
   "lastPull": {
-    "id": 877,
-    "name": "morpeko-full-belly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+    "id": 963,
+    "name": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
     "types": [
-      "electric",
-      "dark"
+      "water"
     ],
-    "totalStats": 436,
-    "grade": "R",
-    "pulledAt": "2026-11-26T22:10:51.294Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-11-27T04:19:27.127Z"
   },
   "pulls": [
+    {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-11-27T04:19:27.127Z"
+    },
     {
       "id": 877,
       "name": "morpeko-full-belly",
@@ -117,17 +127,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-23T22:51:25.362Z"
-    },
-    {
-      "id": 78,
-      "name": "rapidash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-23T11:21:24.435Z"
     }
   ],
   "pokemon": {
@@ -4515,10 +4514,10 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-22T16:05:48.590Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T16:05:48.590Z",
-      "lastPulledAt": "2026-10-22T16:05:48.590Z"
+      "lastPulledAt": "2026-11-27T04:19:27.127Z"
     },
     "964": {
       "id": 964,
